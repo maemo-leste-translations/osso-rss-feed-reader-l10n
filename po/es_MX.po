@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator:\n"
+"Language-Team: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Explorar"
+
+msgid "rss_bd_change_folder"
+msgstr "Carpeta"
+
+msgid "rss_bd_delete"
+msgstr "Suprimir"
+
+msgid "rss_bd_new"
+msgstr "Nueva"
+
+msgid "rss_bd_refresh"
+msgstr "Actualizar"
+
+msgid "rss_bd_rename"
+msgstr "Renombrar"
+
+msgid "rss_bd_subscribe"
+msgstr "Suscribirse"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Anular"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Desplazamiento automático"
+
+msgid "rss_fi_download_img"
+msgstr "Descargar imágenes"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Abrir anuncios mediante"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Carpeta"
+
+msgid "rss_ia_all_feeds"
+msgstr "Todos los servicios"
+
+msgid "rss_ia_category"
+msgstr "Categoría"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Dirección"
+
+msgid "rss_ia_feed_folder"
+msgstr "Carpeta"
+
+msgid "rss_ia_feed_title"
+msgstr "Título"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Nunca se han actualizado los servicios"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Tamaño de caché de imágenes"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d elemento encontrado"
+msgstr[1] "%d elementos encontrados"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Fecha y hora de última actualización: %1$s, %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Cargando"
+
+msgid "rss_ia_location"
+msgstr "Ubicación"
+
+msgid "rss_ia_name"
+msgstr "Nombre"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "Carpetas de servicios"
+
+msgid "rss_ia_no_feeds"
+msgstr "(sin servicios)"
+
+msgid "rss_ia_no_posts"
+msgstr "(no hay anuncios)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Sin servicios suscritos"
+
+msgid "rss_ia_refresh"
+msgstr "Actualizar"
+
+msgid "rss_ia_save_for_later"
+msgstr "Guardar para más tarde"
+
+msgid "rss_ia_searching"
+msgstr "Búsqueda en progreso"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Sólo servicio seleccionado"
+
+msgid "rss_ia_subscribed"
+msgstr "Suscrito"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d anuncio no leído"
+msgstr[1] "%d anuncios no leídos"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automáticamente"
+
+msgid "rss_ia_update_interval"
+msgstr "Intervalo de actualización"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Cuando esté conectado a"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d anuncio guardado para consulta posterior"
+msgstr[1] "%d anuncios guardados para consulta posterior"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Servicio suscrito: %d"
+msgstr[1] "Servicios suscritos: %d"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Imposible iniciar actualización durante búsqueda"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Introduzca palabras clave"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Actualización automática de servicios desactivada"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Sin servicio seleccionado"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Ningún resultado de búsqueda anterior.\n"
+"Inicie una nueva búsqueda."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Nada que pegar"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Operación de actualización ya en curso"
+
+msgid "rss_ib_search_completed"
+msgstr "Búsqueda completa"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Búsqueda cancelada"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Operación de inscripción ya en curso"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Imposible agregar servicio durante actualización"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Imposible agregar servicio durante búsqueda"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Imposible cambiar carpeta de destino durante inscripción"
+
+msgid "rss_ib_unable_edit"
+msgstr "Imposible modificar detalles durante actualización"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Imposible modificar detalles durante búsqueda"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Imposible administrar carpetas durante búsqueda"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Imposible abrir durante actualización"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Imposible abrir durante búsqueda"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Imposible agregar servicio a carpeta seleccionada"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Imposible crear carpeta en carpeta seleccionada"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Imposible mover servicio seleccionado"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Imposible mover elementos aquí"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Imposible pegar aquí"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Imposible anular subscripción durante actualización"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Imposible anular subscripción durante búsqueda"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Imposible anular inscripción del servicio seleccionado"
+
+msgid "rss_me_add_a_feed"
+msgstr "Agregar"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Borrar caché de imágenes"
+
+msgid "rss_me_copy_link"
+msgstr "Copiar ubicación de enlace"
+
+msgid "rss_me_delete"
+msgstr "Suprimir"
+
+msgid "rss_me_edit"
+msgstr "Editar"
+
+msgid "rss_me_feed"
+msgstr "Servicio"
+
+msgid "rss_me_feed_directory"
+msgstr "Directorio de servicios"
+
+msgid "rss_me_folders"
+msgstr "Carpetas"
+
+msgid "rss_me_load_image"
+msgstr "Cargar imagen"
+
+msgid "rss_me_manage_folders"
+msgstr "Administrar carpetas"
+
+msgid "rss_me_new_folder"
+msgstr "Carpeta nueva"
+
+msgid "rss_me_refresh"
+msgstr "Actualizar"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Actualizar servicios"
+
+msgid "rss_me_rename"
+msgstr "Renombrar"
+
+msgid "rss_me_save_image"
+msgstr "Guardar imagen como"
+
+msgid "rss_me_search_results"
+msgstr "Resultados de búsqueda"
+
+msgid "rss_me_settings"
+msgstr "Configuración"
+
+msgid "rss_me_sort"
+msgstr "Ordenar"
+
+msgid "rss_me_tools"
+msgstr "Herramientas"
+
+msgid "rss_me_view"
+msgstr "Ver"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "¿Anular inscripción al servicio: %s?"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "¿Borrar todo el contenido de caché de imágenes?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Imposible agregar servicio. Dirección no válida."
+
+msgid "rss_ni_connection_timeout"
+msgstr ""
+"Imposible agregar uno o más servicios. Tiempo de espera de conexión agotado."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Imposible completar actualización de servicios"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Imposible completar actualización de servicio"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Imposible agregar uno o más servicios. Dirección no válida."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr ""
+"Imposible actualizar uno o más servicios. Inténtelo de nuevo más tarde."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Imposible actualizar servicio.Inténtelo de nuevo más tarde."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Errores al cargar este directorio"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Error al analizar este servicio"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Introducir antes nombre de servicio"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Introduzca antes la dirección"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr ""
+"Imposible aumentar tamaño de caché de imágenes. No hay suficiente memoria en "
+"%s."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Imposible abrir imagen.\n"
+"Archivo no encontrado en servidor."
+
+msgid "rss_nw_saving"
+msgstr "Guardando"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Conectando"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Cargando %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Cargando"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Actualizando"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Agregar servicio"
+
+msgid "rss_ti_change_folder"
+msgstr "Cambiar carpeta"
+
+msgid "rss_ti_feed_details"
+msgstr "Detalles de servicios"
+
+msgid "rss_ti_feed_directory"
+msgstr "Directorio de servicios"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Seleccionar archivo OPML"
+
+msgid "rss_ti_home_applet"
+msgstr "Panel de escritorio RSS"
+
+msgid "rss_ti_manage_folders"
+msgstr "Administrar carpetas"
+
+msgid "rss_ti_new_folder"
+msgstr "Carpeta nueva"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Actualizar servicios"
+
+msgid "rss_ti_rename_folder"
+msgstr "Cambiar nombre"
+
+msgid "rss_ti_search"
+msgstr "Buscar"
+
+msgid "rss_ti_settings"
+msgstr "Configuración"
+
+msgid "rss_ti_updating"
+msgstr "Actualización"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "Desactivado"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Web"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 hora"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 minutos"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 horas"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 minutos"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 horas"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 horas"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Toda conexión"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN"

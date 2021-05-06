@@ -1,0 +1,438 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "rss_ap_news_reader"
+msgstr "Ленты RSS"
+
+msgid "rss_bd_browse"
+msgstr "Обзор"
+
+msgid "rss_bd_change_folder"
+msgstr "Папка"
+
+msgid "rss_bd_delete"
+msgstr "Удалить"
+
+msgid "rss_bd_new"
+msgstr "Создать"
+
+msgid "rss_bd_refresh"
+msgstr "Обновить"
+
+msgid "rss_bd_rename"
+msgstr "Переимен-ть"
+
+msgid "rss_bd_subscribe"
+msgstr "Подписаться"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Отписаться"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Автоматическая прокрутка"
+
+msgid "rss_fi_download_img"
+msgstr "Загружать изобр."
+
+msgid "rss_fi_open_posts_to"
+msgstr "Открывать сообщ. с помощью"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Папка"
+
+msgid "rss_ia_all_feeds"
+msgstr "Все RSS-каналы"
+
+msgid "rss_ia_category"
+msgstr "Категория"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Адрес"
+
+msgid "rss_ia_feed_folder"
+msgstr "Папка"
+
+msgid "rss_ia_feed_title"
+msgstr "Заголовок"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Каналы не обновлялись"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Размер кэша изобр-ий"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "Найден %d объект"
+msgstr[1] "Найдено %d объекта"
+msgstr[2] "Найдено %d объектов"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Последнее обновление %1$s в %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Загрузка"
+
+msgid "rss_ia_location"
+msgstr "Расположение"
+
+msgid "rss_ia_name"
+msgstr "Имя"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "Папки RSS-каналов"
+
+msgid "rss_ia_no_feeds"
+msgstr "(нет каналов)"
+
+msgid "rss_ia_no_posts"
+msgstr "(нет сообщений)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Нет каналов с подпиской"
+
+msgid "rss_ia_refresh"
+msgstr "Обновить"
+
+msgid "rss_ia_save_for_later"
+msgstr "Отложить"
+
+msgid "rss_ia_searching"
+msgstr "Идет поиск"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Только выбранные RSS-каналы"
+
+msgid "rss_ia_subscribed"
+msgstr "Подписано"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d непрочитанное сообщение"
+msgstr[1] "%d непрочитанных сообщения"
+msgstr[2] "%d непрочитанных сообщений"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Автоматически"
+
+msgid "rss_ia_update_interval"
+msgstr "Интервал обновления"
+
+msgid "rss_ia_update_when_connected"
+msgstr "При наличии соединения"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d сообщение сохранено для последующей обработки"
+msgstr[1] "%d сообщения сохранено для последующей обработки"
+msgstr[2] "%d сообщений сохранены для последующей обработки"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Вы подписаны на %d канал"
+msgstr[1] "Вы подписаны на %d канала"
+msgstr[2] "Вы подписаны на %d каналов"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Невозможно начать обновление во время поиска"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Введите ключевые слова"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Автоматическое обновление каналов не включено"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Канал не выбран"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr "Нет результатов предыдущего поиска. Начните новый поиск."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Нечего вставлять"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Операция обновления уже выполняется"
+
+msgid "rss_ib_search_completed"
+msgstr "Поиск завершен"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Поиск отменен"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Операция подписки уже выполняется"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Не удается добавить канал во время обновления"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Не удается добавить канал во время поиска"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Невозможно изменить выбранную папку во время подписки"
+
+msgid "rss_ib_unable_edit"
+msgstr "Не удается изменить свойства во время обновления"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Не удается изменить свойства во время поиска"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Управление папками во время поиска невозможно"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Не открыть во время обновления"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Не открыть во время поиска"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Не удается добавить канал в выбранную папку"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Не удается создать канал в выбранной папке"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Не удается переместить выбранный канал"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Не удается переместить объекты."
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Не удается вставить"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Не удается отказаться от подписки во время обновления"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Не удается отказаться от подписки во время поиска"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Не удается отказаться от подписки на выбранный канал"
+
+msgid "rss_me_add_a_feed"
+msgstr "Добавить"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Очистить кэш изображений"
+
+msgid "rss_me_copy_link"
+msgstr "Копировать расположение ссылки"
+
+msgid "rss_me_delete"
+msgstr "Удалить"
+
+msgid "rss_me_edit"
+msgstr "Изменить"
+
+msgid "rss_me_feed"
+msgstr "RSS-канал"
+
+msgid "rss_me_feed_directory"
+msgstr "Каталог каналов"
+
+msgid "rss_me_folders"
+msgstr "Папки"
+
+msgid "rss_me_load_image"
+msgstr "Загрузить изображение"
+
+msgid "rss_me_manage_folders"
+msgstr "Управление папками"
+
+msgid "rss_me_new_folder"
+msgstr "Создать папку"
+
+msgid "rss_me_refresh"
+msgstr "Обновить"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Обновить RSS-каналы"
+
+msgid "rss_me_rename"
+msgstr "Переимен-ть"
+
+msgid "rss_me_save_image"
+msgstr "Сохранить изображение как"
+
+msgid "rss_me_search_results"
+msgstr "Результаты поиска"
+
+msgid "rss_me_settings"
+msgstr "Параметры"
+
+msgid "rss_me_sort"
+msgstr "Сортировать"
+
+msgid "rss_me_tools"
+msgstr "Инструменты"
+
+msgid "rss_me_view"
+msgstr "Вид"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Отказаться от подписки на канал? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Удалить все содержимое из кэша изображений?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Не удается прочитать канал. Неверный адрес."
+
+msgid "rss_ni_connection_timeout"
+msgstr "Не удается добавить один или несколько каналов. Соединение разорвано."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Не удается завершить обновление каналов"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Не удается завершить обновление канала"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Не удается добавить один или несколько каналов. Неверный адрес."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr ""
+"Не удается обновить один или несколько каналов. Повторите попытку позже."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Не удается обновить выбранный канал. Повторите попытку позже."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Ошибки при загрузке данной директории "
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Ошибки при анализе RSS-канала."
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Сначала введите имя канала"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Сначала введите адрес"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr ""
+"Не удается увеличить размер кэша изображений. Недостаточно свободной памяти "
+"в %s."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Невозможно открыть изображение.\n"
+"Файл не найден на сервере."
+
+msgid "rss_nw_saving"
+msgstr "Сохранение"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Соединение"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Загрузка %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Загрузка"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Обновление"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Добавить RSS-канал"
+
+msgid "rss_ti_change_folder"
+msgstr "Сменить папку"
+
+msgid "rss_ti_feed_details"
+msgstr "Свойства канала"
+
+msgid "rss_ti_feed_directory"
+msgstr "Каталог каналов"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Выберите файл OPML"
+
+msgid "rss_ti_home_applet"
+msgstr "Виджет RSS для рабочего стола"
+
+msgid "rss_ti_manage_folders"
+msgstr "Управление папками"
+
+msgid "rss_ti_new_folder"
+msgstr "Создать папку"
+
+msgid "rss_ti_newsreader"
+msgstr "Ленты RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Обновить RSS-каналы"
+
+msgid "rss_ti_rename_folder"
+msgstr "Переименовать"
+
+msgid "rss_ti_search"
+msgstr "Поиск"
+
+msgid "rss_ti_settings"
+msgstr "Параметры"
+
+msgid "rss_ti_updating"
+msgstr "Обновление"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 МБ"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 МБ"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 МБ"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 МБ"
+
+msgid "rss_va_img_cache_off"
+msgstr "Откл"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "Ленты RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Веб"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 час"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 мин."
+
+msgid "rss_va_update_interval_2"
+msgstr "2 часа"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 мин."
+
+msgid "rss_va_update_interval_4"
+msgstr "4 часа"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 часoв"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Любое"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN"

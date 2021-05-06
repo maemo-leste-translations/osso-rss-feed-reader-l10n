@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Bladeren"
+
+msgid "rss_bd_change_folder"
+msgstr "Map wijzigen"
+
+msgid "rss_bd_delete"
+msgstr "Verwijderen"
+
+msgid "rss_bd_new"
+msgstr "Nieuw"
+
+msgid "rss_bd_refresh"
+msgstr "Vernieuwen"
+
+msgid "rss_bd_rename"
+msgstr "Wijzig naam"
+
+msgid "rss_bd_subscribe"
+msgstr "Abonneren"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Opzeggen"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Automatisch bladeren"
+
+msgid "rss_fi_download_img"
+msgstr "Afbeeldingen downloaden"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Berichten openen met"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Map"
+
+msgid "rss_ia_all_feeds"
+msgstr "Alle feeds"
+
+msgid "rss_ia_category"
+msgstr "Categorie"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Adres"
+
+msgid "rss_ia_feed_folder"
+msgstr "Map"
+
+msgid "rss_ia_feed_title"
+msgstr "Titel"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Feeds zijn nog nooit vernieuwd"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Grootte afbeeldingscache"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d item gevonden"
+msgstr[1] "%d items gevonden"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Voor het laatst vernieuwd op %1$s om %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Bezig met laden"
+
+msgid "rss_ia_location"
+msgstr "Locatie"
+
+msgid "rss_ia_name"
+msgstr "Naam"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "Mappen voor RSS-feed"
+
+msgid "rss_ia_no_feeds"
+msgstr "(geen feeds)"
+
+msgid "rss_ia_no_posts"
+msgstr "(geen berichten)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Geen abonnementen op feeds"
+
+msgid "rss_ia_refresh"
+msgstr "Vernieuwen"
+
+msgid "rss_ia_save_for_later"
+msgstr "Behouden voor later"
+
+msgid "rss_ia_searching"
+msgstr "Bezig met zoeken"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Alleen geselecteerde feed"
+
+msgid "rss_ia_subscribed"
+msgstr "Geabonneerd"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d ongelezen bericht"
+msgstr[1] "%d ongelezen berichten"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automatisch"
+
+msgid "rss_ia_update_interval"
+msgstr "Tijdsinterval voor bijwerken"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Indien verbonden met"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d bericht bewaard om later te lezen"
+msgstr[1] "%d berichten bewaard om later te lezen"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "U bent geabonneerd op %d feed"
+msgstr[1] "U bent geabonneerd op %d feeds"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Kan niet vernieuwen tijdens zoeken"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Voer trefwoorden in"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Automatisch feeds bijwerken niet ingeschakeld"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Geen feed geselecteerd"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Geen vorige zoekresultaten.\n"
+"Start nieuwe zoekactie."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Niets om te plakken"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Vernieuwen is al bezig"
+
+msgid "rss_ib_search_completed"
+msgstr "Zoekactie voltooid"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Zoekactie geannuleerd"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Abonneren is al bezig"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Kan feed niet toevoegen tijdens vernieuwen"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Kan feed niet toevoegen tijdens zoeken"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Kan doelmap niet wijzigen tijdens abonneren"
+
+msgid "rss_ib_unable_edit"
+msgstr "Kan details niet bewerken tijdens vernieuwen"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Kan details niet bewerken tijdens zoeken"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Kan mappen niet beheren tijdens zoeken"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Kan niet openen tijdens vernieuwen"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Kan niet openen tijdens zoeken"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Kan feed niet toevoegen aan geselecteerde map"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Kan geen map maken in geselecteerde map"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Kan geselecteerde feed niet verplaatsen"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Kan items hier niet verplaatsen"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Kan hier niet plakken"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Kan abonnement niet opzeggen tijdens vernieuwen"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Kan abonnement niet opzeggen tijdens zoeken"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Kan abonnement op geselecteerde feed niet opzeggen"
+
+msgid "rss_me_add_a_feed"
+msgstr "Toevoegen"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Afbeeldingscache wissen"
+
+msgid "rss_me_copy_link"
+msgstr "Locatie van koppeling kopiëren"
+
+msgid "rss_me_delete"
+msgstr "Verwijderen"
+
+msgid "rss_me_edit"
+msgstr "Bewerken"
+
+msgid "rss_me_feed"
+msgstr "Feed"
+
+msgid "rss_me_feed_directory"
+msgstr "Map voor feed"
+
+msgid "rss_me_folders"
+msgstr "Mappen"
+
+msgid "rss_me_load_image"
+msgstr "Afbeelding laden"
+
+msgid "rss_me_manage_folders"
+msgstr "Mappen beheren"
+
+msgid "rss_me_new_folder"
+msgstr "Nieuwe map"
+
+msgid "rss_me_refresh"
+msgstr "Vernieuwen"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Feeds vernieuwen"
+
+msgid "rss_me_rename"
+msgstr "Wijzig naam"
+
+msgid "rss_me_save_image"
+msgstr "Afbeelding opslaan als"
+
+msgid "rss_me_search_results"
+msgstr "Zoekresultaten"
+
+msgid "rss_me_settings"
+msgstr "Instellingen"
+
+msgid "rss_me_sort"
+msgstr "Sorteren"
+
+msgid "rss_me_tools"
+msgstr "Extra"
+
+msgid "rss_me_view"
+msgstr "Beeld"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Abonnement op feed opzeggen? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Alle inhoud uit afbeeldingscache wissen?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Kan feed niet toevoegen. Adres is ongeldig."
+
+msgid "rss_ni_connection_timeout"
+msgstr "Kan één of meer feeds niet toevoegen. Time-out verbinding."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Kan het vernieuwen van de feeds niet voltooien"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Kan het vernieuwen van de feed niet voltooien"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Kan één of meer feeds niet toevoegen. Adres is ongeldig."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "Kan één of meer feeds niet vernieuwen. Probeer het later opnieuw."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Kan geselecteerde feed niet vernieuwen. Probeer het later opnieuw."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Fouten bij het laden van deze map"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Fouten bij het ontleden van deze feed"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Voer eerst de feednaam in"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Voer eerst het adres in"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "Kan afbeeldingscache niet vergroten. Onvoldoende geheugen vrij in %s."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Kan afbeelding niet openen.\n"
+"Bestand niet gevonden op server."
+
+msgid "rss_nw_saving"
+msgstr "Bezig met opslaan"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Bezig met verbinden"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Bezig met laden %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Bezig met laden"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Bezig met vernieuwen"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Feed toevoegen"
+
+msgid "rss_ti_change_folder"
+msgstr "Map wijzigen"
+
+msgid "rss_ti_feed_details"
+msgstr "Details van feed"
+
+msgid "rss_ti_feed_directory"
+msgstr "Map voor feed"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "OPML-bestand selecteren"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS-bureaubladwidget"
+
+msgid "rss_ti_manage_folders"
+msgstr "Mappen beheren"
+
+msgid "rss_ti_new_folder"
+msgstr "Nieuwe map"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Feeds vernieuwen"
+
+msgid "rss_ti_rename_folder"
+msgstr "Naam wijzigen"
+
+msgid "rss_ti_search"
+msgstr "Zoeken"
+
+msgid "rss_ti_settings"
+msgstr "Instellingen"
+
+msgid "rss_ti_updating"
+msgstr "Bijwerken"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "Uit"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Web"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 uur"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 minuten"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 uur"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 minuten"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 uur"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 uur"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Elke verbinding"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN"

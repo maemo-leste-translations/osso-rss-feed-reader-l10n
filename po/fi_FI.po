@@ -1,0 +1,435 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Selaa"
+
+msgid "rss_bd_change_folder"
+msgstr "Vaihda kans."
+
+msgid "rss_bd_delete"
+msgstr "Poista"
+
+msgid "rss_bd_new"
+msgstr "Uusi"
+
+msgid "rss_bd_refresh"
+msgstr "Päivitä"
+
+msgid "rss_bd_rename"
+msgstr "Nimeä uudell."
+
+msgid "rss_bd_subscribe"
+msgstr "Tilaa"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Poista tilaus"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Automaattinen selaus"
+
+msgid "rss_fi_download_img"
+msgstr "Lataa kuvat"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Avaa viestit ohjelmalla"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Kansio"
+
+msgid "rss_ia_all_feeds"
+msgstr "Kaikki syötteet"
+
+msgid "rss_ia_category"
+msgstr "Luokka"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Osoite"
+
+msgid "rss_ia_feed_folder"
+msgstr "Kansio"
+
+msgid "rss_ia_feed_title"
+msgstr "Otsikko"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Syötteitä ei ole koskaan päivitetty"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Kuvien välimuisti"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d kohde löytyi"
+msgstr[1] "%d kohdetta löytyi"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Viimeksi päivitetty %1$s klo %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Ladataan"
+
+msgid "rss_ia_location"
+msgstr "Sijainti"
+
+msgid "rss_ia_name"
+msgstr "Nimi"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "RSS-syötekansiot"
+
+msgid "rss_ia_no_feeds"
+msgstr "(ei syötteitä)"
+
+msgid "rss_ia_no_posts"
+msgstr "(ei uutisia)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Ei tilattuja syötteitä"
+
+msgid "rss_ia_refresh"
+msgstr "Päivitä"
+
+msgid "rss_ia_save_for_later"
+msgstr "Säilytä"
+
+msgid "rss_ia_searching"
+msgstr "Etsitään"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Vain valitut syötteet"
+
+msgid "rss_ia_subscribed"
+msgstr "Tilattu"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d lukematon viesti"
+msgstr[1] "%d lukematonta viestiä"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automaattisesti"
+
+msgid "rss_ia_update_interval"
+msgstr "Päivitysväli"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Kun käytössä on"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d viesti tallennettu myöhempää käyttöä varten"
+msgstr[1] "%d viestiä tallennettu myöhempää käyttöä varten"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Olet tilannut %d syötteen"
+msgstr[1] "Olet tilannut %d syötettä"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Päivitystä ei voi aloittaa haun aikana"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Kirjoita hakusanat"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Automaattinen syötteiden päivitys ei ole käytössä"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Ei valittuja syötteitä"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Ei aiempia hakutuloksia.\n"
+"Aloita uusi haku."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Ei liitettävää"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Päivitys jo käynnissä"
+
+msgid "rss_ib_search_completed"
+msgstr "Haku valmis"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Haku peruutettu"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Tilaus jo olemassa"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Syötettä ei voi lisätä päivityksen aikana"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Syötettä ei voi lisätä haun aikana"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Kohdekansiota ei voi muuttaa tilauksen aikana"
+
+msgid "rss_ib_unable_edit"
+msgstr "Tietoja ei voi muokata päivityksen aikana"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Tietoja ei voi muokata haun aikana"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Kansioita ei voi hallinnoida haun aikana"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Ei voi avata päivityksen aikana"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Ei voi avata haun aikana"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Valittuun kansioon ei voi lisätä syötettä"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Valittuun kansioon ei voi luoda kansiota"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Valittua syötettä ei voi siirtää"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Kohteita ei voi siirtää"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Tietoja ei voi liittää tähän"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Tilausta ei voi lopettaa päivityksen aikana"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Tilausta ei voi lopettaa haun aikana"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Valitun syötteen tilausta ei voi peruuttaa"
+
+msgid "rss_me_add_a_feed"
+msgstr "Lisää"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Tyhjennä kuvavälimuisti"
+
+msgid "rss_me_copy_link"
+msgstr "Kopioi linkin sijainti"
+
+msgid "rss_me_delete"
+msgstr "Poista"
+
+msgid "rss_me_edit"
+msgstr "Muokkaa"
+
+msgid "rss_me_feed"
+msgstr "Syöte"
+
+msgid "rss_me_feed_directory"
+msgstr "Syötehakemisto"
+
+msgid "rss_me_folders"
+msgstr "Kansiot"
+
+msgid "rss_me_load_image"
+msgstr "Lataa kuva"
+
+msgid "rss_me_manage_folders"
+msgstr "Kansioiden hallinta"
+
+msgid "rss_me_new_folder"
+msgstr "Uusi kansio"
+
+msgid "rss_me_refresh"
+msgstr "Päivitä"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Päivitä syötteet"
+
+msgid "rss_me_rename"
+msgstr "Nimeä uudell."
+
+msgid "rss_me_save_image"
+msgstr "Tallenna kuva nimellä"
+
+msgid "rss_me_search_results"
+msgstr "Hakutulokset"
+
+msgid "rss_me_settings"
+msgstr "Asetukset"
+
+msgid "rss_me_sort"
+msgstr "Järjestä"
+
+msgid "rss_me_tools"
+msgstr "Työkalut"
+
+msgid "rss_me_view"
+msgstr "Näytä"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Poista syötteen tilaus? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Tyhjennetäänkö kuvavälimuistin koko sisältö?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Syötettä ei voi lisätä. Osoite on virheellinen."
+
+msgid "rss_ni_connection_timeout"
+msgstr "Yhtä tai useampaa syötettä ei voi lisätä. Yhteyden aikakatkaisu."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Syötteiden päivittäminen ei onnistu"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Syötteen päivittäminen ei onnistu"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Yhtä tai useampaa syötettä ei voi lisätä. Osoite on virheellinen."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr ""
+"Yhtä tai useampaa syötettä ei voi päivittää. Yritä myöhemmin uudelleen."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Valittua syötettä ei voi päivittää. Yritä myöhemmin uudelleen."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Luetteloa ladattaessa tapahtui virhe"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Virheitä syötettä jäsennettäessä"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Kirjoita ensin syötteen nimi"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Kirjoita ensin osoite"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr ""
+"Kuvavälimuistin kokoa ei voi suurentaa. Vapaa muistitila ei riitä kohteessa "
+"%s."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Kuvaa ei voi avata.\n"
+"Tiedostoa ei löydy palvelimelta."
+
+msgid "rss_nw_saving"
+msgstr "Tallentaa"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Yhdistetään"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Ladataan %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Ladataan"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Päivitetään"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Lisää syöte"
+
+msgid "rss_ti_change_folder"
+msgstr "Vaihda kansiota"
+
+msgid "rss_ti_feed_details"
+msgstr "Syötteen tiedot"
+
+msgid "rss_ti_feed_directory"
+msgstr "Syötehakemisto"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Valitse OPML-tiedosto"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS-widget"
+
+msgid "rss_ti_manage_folders"
+msgstr "Kansioiden hallinta"
+
+msgid "rss_ti_new_folder"
+msgstr "Uusi kansio"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Päivitä syötteet"
+
+msgid "rss_ti_rename_folder"
+msgstr "Nimeä kansio uudelleen"
+
+msgid "rss_ti_search"
+msgstr "Etsi"
+
+msgid "rss_ti_settings"
+msgstr "Asetukset"
+
+msgid "rss_ti_updating"
+msgstr "Päivittäminen"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 Mt"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 Mt"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 Mt"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 Mt"
+
+msgid "rss_va_img_cache_off"
+msgstr "Ei käytössä"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Web"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 tunti"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 minuuttia"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 tuntia"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 minuuttia"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 tuntia"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 tuntia"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Mikä tahansa yhteys"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN-yhteys"

@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "rss_ap_news_reader"
+msgstr "Czytnik RSS"
+
+msgid "rss_bd_browse"
+msgstr "Przeglądaj"
+
+msgid "rss_bd_change_folder"
+msgstr "Zmień folder"
+
+msgid "rss_bd_delete"
+msgstr "Usuń"
+
+msgid "rss_bd_new"
+msgstr "Nowy"
+
+msgid "rss_bd_refresh"
+msgstr "Odśwież"
+
+msgid "rss_bd_rename"
+msgstr "Zmień nazwę"
+
+msgid "rss_bd_subscribe"
+msgstr "Subskrybuj"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Usuń kanał"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Autoprzewijanie"
+
+msgid "rss_fi_download_img"
+msgstr "Pobierz obrazy"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Otwórz posty przez"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Folder"
+
+msgid "rss_ia_all_feeds"
+msgstr "Wszystkie kanały"
+
+msgid "rss_ia_category"
+msgstr "Kategoria"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Adres"
+
+msgid "rss_ia_feed_folder"
+msgstr "Folder"
+
+msgid "rss_ia_feed_title"
+msgstr "Tytuł"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Kanały nigdy nie były odświeżane"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Pamięć podręczna obrazów"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "Znaleziono %d element"
+msgstr[1] "Znaleziono %d elementy"
+msgstr[2] "Znaleziono %d elementów"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Ostatnie odświeżanie: %1$s o %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Wczytywanie"
+
+msgid "rss_ia_location"
+msgstr "Lokalizacja"
+
+msgid "rss_ia_name"
+msgstr "Nazwa"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "Foldery kanałów RSS"
+
+msgid "rss_ia_no_feeds"
+msgstr "(brak kanałów)"
+
+msgid "rss_ia_no_posts"
+msgstr "(brak postów)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Brak subskrybowanych kanałów"
+
+msgid "rss_ia_refresh"
+msgstr "Odśwież"
+
+msgid "rss_ia_save_for_later"
+msgstr "Zachowaj do odczytu"
+
+msgid "rss_ia_searching"
+msgstr "Wyszukiwanie"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Tylko wybrany kanał"
+
+msgid "rss_ia_subscribed"
+msgstr "Subskrybowany"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d nieprzeczytany post"
+msgstr[1] "%d nieprzeczytane posty"
+msgstr[2] "%d nieprzeczytanych postów"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automatycznie"
+
+msgid "rss_ia_update_interval"
+msgstr "Czas pomiędzy aktualizacjami"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Po połączeniu z"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d post zachowany do odczytu"
+msgstr[1] "%d posty zachowane do odczytu"
+msgstr[2] "%d postów zachowanych do odczytu"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Subskrybowano %d kanał"
+msgstr[1] "Subskrybowano %d kanały"
+msgstr[2] "Subskrybowano %d kanałów"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Nie można rozpocząć odświeżania podczas wyszukiwania"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Wpisz słowa kluczowe"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Automatyczna aktualizacja kanałów wyłączona"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Nie wybrano kanału"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Brak poprzednich wyników wyszukiwania.\n"
+"Rozpocznij nowe wyszukiwanie."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Brak elementów do wklejenia"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Odświeżanie już trwa"
+
+msgid "rss_ib_search_completed"
+msgstr "Wyszukiwanie zakończone"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Wyszukiwanie anulowane"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Operacja subskrypcji już w toku"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Nie można dodawać kanału podczas odświeżania"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Nie można dodawać kanału podczas wyszukiwania"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Nie można zmienić folderu docelowego podczas subskrypcji"
+
+msgid "rss_ib_unable_edit"
+msgstr "Nie można edytować szczegółów podczas odświeżania"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Nie można edytować szczegółów podczas wyszukiwania"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Nie można zarządzać folderami podczas wyszukiwania"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Nie można otworzyć podczas odświeżania"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Nie można otworzyć podczas wyszukiwania"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Nie można dodać kanału do wybranego folderu"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Nie można utworzyć folderu w wybranym folderze"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Nie można przenieść wybranego kanału"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Nie można przenieść elementów tutaj"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Nie można wkleić w tym miejscu"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Nie można anulować subskrypcji podczas odświeżania"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Nie można anulować subskrypcji podczas wyszukiwania"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Nie można anulować subskrypcji wybranego kanału"
+
+msgid "rss_me_add_a_feed"
+msgstr "Dodaj"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Wyczyść pamięć obrazów"
+
+msgid "rss_me_copy_link"
+msgstr "Kopiuj lokalizację łącza"
+
+msgid "rss_me_delete"
+msgstr "Usuń"
+
+msgid "rss_me_edit"
+msgstr "Edytuj"
+
+msgid "rss_me_feed"
+msgstr "Kanał"
+
+msgid "rss_me_feed_directory"
+msgstr "Katalog kanałów"
+
+msgid "rss_me_folders"
+msgstr "Foldery"
+
+msgid "rss_me_load_image"
+msgstr "Wczytaj obraz"
+
+msgid "rss_me_manage_folders"
+msgstr "Zarządzaj folderami"
+
+msgid "rss_me_new_folder"
+msgstr "Nowy folder"
+
+msgid "rss_me_refresh"
+msgstr "Odśwież"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Odśwież kanały"
+
+msgid "rss_me_rename"
+msgstr "Zmień nazwę"
+
+msgid "rss_me_save_image"
+msgstr "Zapisz obraz jako"
+
+msgid "rss_me_search_results"
+msgstr "Wyniki wyszukiwania"
+
+msgid "rss_me_settings"
+msgstr "Ustawienia"
+
+msgid "rss_me_sort"
+msgstr "Sortuj"
+
+msgid "rss_me_tools"
+msgstr "Narzędzia"
+
+msgid "rss_me_view"
+msgstr "Wyświetl"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Anulować subskrypcję kanału? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Wyczyścić całą pamięć podręczną obrazów?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Nie można dodać kanału. Nieprawidłowy adres."
+
+msgid "rss_ni_connection_timeout"
+msgstr ""
+"Nie można dodać jednego lub więcej kanałów. Upłynąl limit czasu połączenia."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Nie można zakończyć odświeżania kanałów"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Nie można zakończyć odświeżania kanału"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Nie można dodać jednego lub więcej kanałów. Nieprawidłowy adres."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr ""
+"Nie można odświeżyć jednego lub więcej kanałów. Spróbuj ponownie później."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Nie można odświeżyć wybranego kanału. Spróbuj ponownie później."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Podczas wczytywania katalogu wystąpiły błędy"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Podczas sprawdzania kanału wystąpiły błędy"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Najpierw wpisz nazwę kanału"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Najpierw wpisz adres"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr ""
+"Nie można zwiększyć rozmiaru pamięci podręcznej obrazów. Za mało miejsca w "
+"%s."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Nie można otworzyć obrazu.\n"
+"Nie znaleziono pliku na serwerze."
+
+msgid "rss_nw_saving"
+msgstr "Zapisywanie"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Łączenie"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Wczytywanie %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Wczytywanie"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Odświeżanie"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Dodaj kanał"
+
+msgid "rss_ti_change_folder"
+msgstr "Zmień folder"
+
+msgid "rss_ti_feed_details"
+msgstr "Szczegóły kanału"
+
+msgid "rss_ti_feed_directory"
+msgstr "Katalog kanałów"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Wybierz plik OPML"
+
+msgid "rss_ti_home_applet"
+msgstr "Widżet RSS na pulpit"
+
+msgid "rss_ti_manage_folders"
+msgstr "Zarządzaj folderami"
+
+msgid "rss_ti_new_folder"
+msgstr "Nowy folder"
+
+msgid "rss_ti_newsreader"
+msgstr "Czytnik RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Odśwież kanały"
+
+msgid "rss_ti_rename_folder"
+msgstr "Zmień nazwę folderu"
+
+msgid "rss_ti_search"
+msgstr "Szukaj"
+
+msgid "rss_ti_settings"
+msgstr "Ustawienia"
+
+msgid "rss_ti_updating"
+msgstr "Aktualizacja"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "Wyłączone"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "Czytnik RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Internet"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 godzina"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 minut"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 godziny"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 minut"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 godziny"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 godzin"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Dow. poł."
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "Sieć WLAN"

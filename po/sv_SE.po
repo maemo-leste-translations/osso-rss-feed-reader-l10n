@@ -1,0 +1,438 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Bläddra"
+
+msgid "rss_bd_change_folder"
+msgstr "Byt mapp"
+
+msgid "rss_bd_delete"
+msgstr "Ta bort"
+
+msgid "rss_bd_new"
+msgstr "Ny"
+
+msgid "rss_bd_refresh"
+msgstr "Uppdatera"
+
+msgid "rss_bd_rename"
+msgstr "Ändra namn"
+
+msgid "rss_bd_subscribe"
+msgstr "Prenumerera"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Avsluta"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Automatisk bläddring"
+
+msgid "rss_fi_download_img"
+msgstr "Hämta bilder"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Öppna poster med"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Mapp"
+
+msgid "rss_ia_all_feeds"
+msgstr "Alla datakällor"
+
+msgid "rss_ia_category"
+msgstr "Kategori"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Adress"
+
+msgid "rss_ia_feed_folder"
+msgstr "Mapp"
+
+msgid "rss_ia_feed_title"
+msgstr "Namn"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Datakällorna har aldrig uppdaterats"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Bildcachens storlek"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d objekt hittades"
+msgstr[1] "%d objekt hittades"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Senast uppdaterad den %1$s kl. %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Hämtar"
+
+msgid "rss_ia_location"
+msgstr "Plats"
+
+msgid "rss_ia_name"
+msgstr "Namn"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "RSS-dataläsare"
+
+msgid "rss_ia_no_feeds"
+msgstr "(inga data)"
+
+msgid "rss_ia_no_posts"
+msgstr "(inga poster)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Inga abonnemang på datakällor"
+
+msgid "rss_ia_refresh"
+msgstr "Uppdatera"
+
+msgid "rss_ia_save_for_later"
+msgstr "Spara till senare"
+
+msgid "rss_ia_searching"
+msgstr "Söker"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Endast valda datakällor"
+
+msgid "rss_ia_subscribed"
+msgstr "Abonnerar"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d oläst post"
+msgstr[1] "%d olästa poster"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automatiskt"
+
+msgid "rss_ia_update_interval"
+msgstr "Uppdateringsintervall"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Vid anslutning till"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d post behålls för senare referens"
+msgstr[1] "%d poster behålls för senare referens"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Du prenumererar på %d datakälla"
+msgstr[1] "Du prenumererar på %d datakällor"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Det gick inte att starta uppdateringen under pågående sökning"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Ange nyckelord"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Automatisk uppdatering av datakällor ej aktiverad"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Ingen vald datakälla"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Inga tidigare sökresultat.\n"
+"Starta ny sökning"
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Ingenting att klistra in"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Uppdatering pågår redan"
+
+msgid "rss_ib_search_completed"
+msgstr "Sökningen klar"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Sökningen avbröts."
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Abonnemangsåtgärden pågår redan"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Det gick inte att lägga till datakälla under pågående uppdatering"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Det gick inte att lägga till datakälla under pågående sökning"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Det går inte att ändra målmapp under abonnemangsåtgärden"
+
+msgid "rss_ib_unable_edit"
+msgstr "Det gick inte att redigera informationen under pågående uppdatering"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Det gick inte att redigera information under pågående sökning"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Det gick inte att hantera mappar under pågående sökning"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Det gick inte att öppna under pågående uppdatering"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Det gick inte att öppna under pågående sökning"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Det gick inte att lägga till datakällan i vald mapp"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Det gick inte att skapa mapp i vald mapp"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Det gick inte att flytta vald datakälla"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Det gick inte att flytta objekten hit"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Det gick inte att klistra in här"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Det gick inte att ta bort abonnemanget under pågående uppdatering"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Det gick inte att ta bort abonnemanget under pågående sökning"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Det gick inte att ta bort abonnemanget på vald datakälla"
+
+msgid "rss_me_add_a_feed"
+msgstr "Lägg till"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Rensa bildcache"
+
+msgid "rss_me_copy_link"
+msgstr "Kopiera länkplats"
+
+msgid "rss_me_delete"
+msgstr "Ta bort"
+
+msgid "rss_me_edit"
+msgstr "Redigera"
+
+msgid "rss_me_feed"
+msgstr "Datakälla"
+
+msgid "rss_me_feed_directory"
+msgstr "Datakatalog"
+
+msgid "rss_me_folders"
+msgstr "Mappar"
+
+msgid "rss_me_load_image"
+msgstr "Hämta bild"
+
+msgid "rss_me_manage_folders"
+msgstr "Hantera mappar"
+
+msgid "rss_me_new_folder"
+msgstr "Ny mapp"
+
+msgid "rss_me_refresh"
+msgstr "Uppdatera"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Uppdatera datakällor"
+
+msgid "rss_me_rename"
+msgstr "Ändra namn"
+
+msgid "rss_me_save_image"
+msgstr "Spara bild som"
+
+msgid "rss_me_search_results"
+msgstr "Sökresultat"
+
+msgid "rss_me_settings"
+msgstr "Inställningar"
+
+msgid "rss_me_sort"
+msgstr "Sortera"
+
+msgid "rss_me_tools"
+msgstr "Verktyg"
+
+msgid "rss_me_view"
+msgstr "Visa"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Vill du ta bort abonnemanget på datakällan? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Vill du rensa allt innehåll från bildcachen?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Det gick inte att lägga till datakällan. Adressen är ogiltig."
+
+msgid "rss_ni_connection_timeout"
+msgstr ""
+"Det gick inte att lägga till en eller flera datakällor. Tidsgräns för "
+"anslutning."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Det går inte att slutföra uppdateringen av datakällor"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Det går inte att slutföra uppdateringen av datakälla"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr ""
+"Det gick inte att lägga till en eller flera datakällor. Adressen är ogiltig."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr ""
+"Det gick inte att uppdatera en eller flera datakällor. Försök igen senare."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Det gick inte att uppdatera valda datakällor. Försök igen senare."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Fel vid hämtning av katalogen"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Fel uppstod vid analys av datakällan"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Ange datakällans namn först"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Ange adress först"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr ""
+"Det gick inte att öka bildcachens storlek. Otillräckligt med ledigt minne i "
+"%s."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Det gick inte att öppna bilden.\n"
+"Filen hittades inte på servern."
+
+msgid "rss_nw_saving"
+msgstr "Sparar"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Ansluter"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Hämtar %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Hämtar"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Uppdaterar"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Lägg till datakälla"
+
+msgid "rss_ti_change_folder"
+msgstr "Byt mapp"
+
+msgid "rss_ti_feed_details"
+msgstr "Information om datakälla"
+
+msgid "rss_ti_feed_directory"
+msgstr "Datakatalog"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Välj OPML-fil"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS-skrivbordswidget"
+
+msgid "rss_ti_manage_folders"
+msgstr "Hantera mappar"
+
+msgid "rss_ti_new_folder"
+msgstr "Ny mapp"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Uppdatera datakällor"
+
+msgid "rss_ti_rename_folder"
+msgstr "Ändra namn på mapp"
+
+msgid "rss_ti_search"
+msgstr "Sök"
+
+msgid "rss_ti_settings"
+msgstr "Inställningar"
+
+msgid "rss_ti_updating"
+msgstr "Uppdaterar"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "Av"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Webb"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 timme"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 minuter"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 timmar"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 minuter"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 timmar"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 timmar"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Alla anslutningar"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN"

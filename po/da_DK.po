@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Gennemse"
+
+msgid "rss_bd_change_folder"
+msgstr "Skift mappe"
+
+msgid "rss_bd_delete"
+msgstr "Slet"
+
+msgid "rss_bd_new"
+msgstr "Ny"
+
+msgid "rss_bd_refresh"
+msgstr "Opdater"
+
+msgid "rss_bd_rename"
+msgstr "Omdøb"
+
+msgid "rss_bd_subscribe"
+msgstr "Tilmeld"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Afmeld"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Automatisk rulning"
+
+msgid "rss_fi_download_img"
+msgstr "Hent billeder"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Åbn poster vha."
+
+msgid "rss_ia_add_to_folder"
+msgstr "Mappe"
+
+msgid "rss_ia_all_feeds"
+msgstr "Alle feeds"
+
+msgid "rss_ia_category"
+msgstr "Kategori"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Adresse"
+
+msgid "rss_ia_feed_folder"
+msgstr "Mappe"
+
+msgid "rss_ia_feed_title"
+msgstr "Titel"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Feeds er aldrig blevet opdateret"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Størrelse på billedcache"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d element fundet"
+msgstr[1] "%d elementer fundet"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Sidst opdateret den %1$s kl. %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Indlæser"
+
+msgid "rss_ia_location"
+msgstr "Placering"
+
+msgid "rss_ia_name"
+msgstr "Navn"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "Mapper til RSS-feed"
+
+msgid "rss_ia_no_feeds"
+msgstr "(ingen feeds)"
+
+msgid "rss_ia_no_posts"
+msgstr "(ingen poster)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Ingen tilmeldte feeds"
+
+msgid "rss_ia_refresh"
+msgstr "Opdater"
+
+msgid "rss_ia_save_for_later"
+msgstr "Gem til senere"
+
+msgid "rss_ia_searching"
+msgstr "Søger"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Kun valgt feed"
+
+msgid "rss_ia_subscribed"
+msgstr "Tilmeldt"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d ulæst post"
+msgstr[1] "%d ulæste poster"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automatisk"
+
+msgid "rss_ia_update_interval"
+msgstr "Opdateringsinterval"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Ved tilslutning til"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d post gemt til senere reference"
+msgstr[1] "%d poster gemt til senere reference"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Du har abonneret på %d feeds"
+msgstr[1] "Du har abonneret på %d feeds"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Kan ikke starte opdatering under søgning"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Indtast nøgleord"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Automatisk opdatering af feeds ikke aktiveret"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Ingen feed valgt"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Ingen tidligere søgeresultater.\n"
+"Start ny søgning."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Intet at indsætte"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Opdatering allerede i gang"
+
+msgid "rss_ib_search_completed"
+msgstr "Søgning udført"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Søgning annulleret"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Tilmelding allerede i gang"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Kan ikke tilføje feed under opdatering"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Kan ikke tilføje feed under søgning"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Kan ikke ændre destinationsmappe under tilmelding"
+
+msgid "rss_ib_unable_edit"
+msgstr "Kan ikke redigere detaljer under opdatering"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Kan ikke redigere detaljer under søgning"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Kan ikke håndtere mapper under søgning"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Kan ikke åbne under opdatering"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Kan ikke åbne under søgning"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Kan ikke føje feed til den valgte mappe"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Kan ikke oprette mappe i den valgte mappe"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Kan ikke flytte den valgte feed"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Kan ikke flytte elementer her"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Kan ikke indsætte her"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Kan ikke afmelde under opdatering"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Kan ikke afmelde under søgning"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Kan ikke afmelde den valgte feed"
+
+msgid "rss_me_add_a_feed"
+msgstr "Tilføj"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Ryd billedcache"
+
+msgid "rss_me_copy_link"
+msgstr "Kopiér linkplacering"
+
+msgid "rss_me_delete"
+msgstr "Slet"
+
+msgid "rss_me_edit"
+msgstr "Rediger"
+
+msgid "rss_me_feed"
+msgstr "Feed"
+
+msgid "rss_me_feed_directory"
+msgstr "Feed-bibliotek"
+
+msgid "rss_me_folders"
+msgstr "Mapper"
+
+msgid "rss_me_load_image"
+msgstr "Indlæs billede"
+
+msgid "rss_me_manage_folders"
+msgstr "Håndter mapper"
+
+msgid "rss_me_new_folder"
+msgstr "Ny mappe"
+
+msgid "rss_me_refresh"
+msgstr "Opdater"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Opdater feeds"
+
+msgid "rss_me_rename"
+msgstr "Omdøb"
+
+msgid "rss_me_save_image"
+msgstr "Gem billede som"
+
+msgid "rss_me_search_results"
+msgstr "Søgeresultater"
+
+msgid "rss_me_settings"
+msgstr "Indstillinger"
+
+msgid "rss_me_sort"
+msgstr "Sorter"
+
+msgid "rss_me_tools"
+msgstr "Værktøjer"
+
+msgid "rss_me_view"
+msgstr "Vis"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Afmeld feed? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Ryd alt indhold fra billedcache?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Kan ikke tilføje feed. Adressen er ugyldig."
+
+msgid "rss_ni_connection_timeout"
+msgstr "Kan ikke tilføje en eller flere feeds. Timeout for forbindelse."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Kan ikke fuldføre opdatering af feeds"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Kan ikke fuldføre opdatering af feed"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Kan ikke tilføje en eller flere feeds. Adressen er ugyldig."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "Kan ikke opdatere en eller flere feeds. Prøv igen senere."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Kan ikke opdatere den valgte feed. Prøv igen senere."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Der opstod fejl under indlæsning af biblioteket"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Der opstod fejl under parsing af denne feed"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Indtast navn på feed først"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Indtast adresse først"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr ""
+"Kan ikke øge størrelse på billedcache. Der er ikke tilstrækkelig ledig "
+"hukommelse i %s."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Kan ikke åbne billede.\n"
+"Filen ikke fundet fra serveren."
+
+msgid "rss_nw_saving"
+msgstr "Gemmer"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Opretter forb."
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Indlæser %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Indlæser"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Opdaterer"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Tilføj feed"
+
+msgid "rss_ti_change_folder"
+msgstr "Skift mappe"
+
+msgid "rss_ti_feed_details"
+msgstr "Feed-detaljer"
+
+msgid "rss_ti_feed_directory"
+msgstr "Feed-bibliotek"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Vælg OPML-fil"
+
+msgid "rss_ti_home_applet"
+msgstr "Desktop-widget til RSS"
+
+msgid "rss_ti_manage_folders"
+msgstr "Håndter mapper"
+
+msgid "rss_ti_new_folder"
+msgstr "Ny mappe"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Opdater feeds"
+
+msgid "rss_ti_rename_folder"
+msgstr "Omdøb mappe"
+
+msgid "rss_ti_search"
+msgstr "Søg"
+
+msgid "rss_ti_settings"
+msgstr "Indstillinger"
+
+msgid "rss_ti_updating"
+msgstr "Opdaterer"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "Fra"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Web"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 time"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 minutter"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 timer"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 minutter"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 timer"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 timer"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Alle forbindelser"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN"

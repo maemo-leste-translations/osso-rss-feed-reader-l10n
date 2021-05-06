@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Durchs."
+
+msgid "rss_bd_change_folder"
+msgstr "Ordner"
+
+msgid "rss_bd_delete"
+msgstr "Löschen"
+
+msgid "rss_bd_new"
+msgstr "Neu"
+
+msgid "rss_bd_refresh"
+msgstr "Aktualisieren"
+
+msgid "rss_bd_rename"
+msgstr "Umbenennen"
+
+msgid "rss_bd_subscribe"
+msgstr "Abonnieren"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Stornieren"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Automatisch blättern"
+
+msgid "rss_fi_download_img"
+msgstr "Bilder herunterladen"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Beiträge öffnen mit"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Ordner"
+
+msgid "rss_ia_all_feeds"
+msgstr "Alle Feeds"
+
+msgid "rss_ia_category"
+msgstr "Kategorie"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Adresse"
+
+msgid "rss_ia_feed_folder"
+msgstr "Ordner"
+
+msgid "rss_ia_feed_title"
+msgstr "Titel"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Feeds wurden nie aktualisiert"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Größe des Bild-Caches"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d Objekt gefunden"
+msgstr[1] "%d Objekte gefunden"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Letzte Aktualisierung am %1$s um %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Wird geladen"
+
+msgid "rss_ia_location"
+msgstr "Speicherort"
+
+msgid "rss_ia_name"
+msgstr "Name"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "RSS-Feed-Ordner"
+
+msgid "rss_ia_no_feeds"
+msgstr "(Keine Feeds)"
+
+msgid "rss_ia_no_posts"
+msgstr "(keine Beiträge)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Keine Feeds abonniert"
+
+msgid "rss_ia_refresh"
+msgstr "Aktualisieren"
+
+msgid "rss_ia_save_for_later"
+msgstr "Später lesen"
+
+msgid "rss_ia_searching"
+msgstr "Suche läuft"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Nur ausgewählten Feed"
+
+msgid "rss_ia_subscribed"
+msgstr "Abonniert"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d ungelesener Beitrag"
+msgstr[1] "%d ungelesene Beiträge"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automatisch"
+
+msgid "rss_ia_update_interval"
+msgstr "Aktualisierungsintervall"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Während Verbindung mit"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d zum späteren Lesen gespeicherter Beitrag"
+msgstr[1] "%d zum späteren Lesen gespeicherte Beiträge"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Sie haben %d Feed abonniert"
+msgstr[1] "Sie haben %d Feeds abonniert"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Aktualisierung kann nicht gestartet werden, solange die Suche läuft."
+
+msgid "rss_ib_enter_key_words"
+msgstr "Stichwörter eingeben"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Automatisches Aktualisieren des Feeds nicht möglich"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Kein Feed ausgewählt"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Keine Suchergebnisse vorhanden.\n"
+"Neue Suche starten."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Nichts einzufügen"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Aktualisierung läuft bereits"
+
+msgid "rss_ib_search_completed"
+msgstr "Suche abgeschlossen"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Suche abgebrochen"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Abonnement läuft bereits"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Feed kann nicht hinzugefügt werden, solange die Aktualisierung läuft"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Feed kann nicht hinzugefügt werden, solange die Suche läuft"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Ändern des Zielordners beim Abonnieren nicht möglich"
+
+msgid "rss_ib_unable_edit"
+msgstr ""
+"Details können nicht bearbeitet werden, solange die Aktualisierung läuft"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Details können nicht bearbeitet werden, solange die Suche läuft"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Ordner können nicht verwaltet werden, solange die Suche läuft"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Öffnen nicht möglich, solange die Aktualisierung läuft"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Öffnen nicht möglich, solange die Suche läuft"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Hinzufügen des Feeds in ausgewählten Ordner nicht möglich."
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Erstellen des Ordners im ausgewählten Ordner nicht möglich."
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Verschieben des ausgewählten Feeds nicht möglich."
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Verschieben der Objekte hierher nicht möglich."
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Einfügen hier nicht möglich"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr ""
+"Abonnement kann nicht storniert werden, solange die Aktualisierung läuft"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Abonnement kann nicht storniert werden, solange die Suche läuft"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Stornieren des ausgewählten Feeds nicht möglich."
+
+msgid "rss_me_add_a_feed"
+msgstr "Hinzufügen"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Bild-Cache leeren"
+
+msgid "rss_me_copy_link"
+msgstr "Link kopieren"
+
+msgid "rss_me_delete"
+msgstr "Löschen"
+
+msgid "rss_me_edit"
+msgstr "Bearbeiten"
+
+msgid "rss_me_feed"
+msgstr "Feed"
+
+msgid "rss_me_feed_directory"
+msgstr "Feed-Verzeichnis"
+
+msgid "rss_me_folders"
+msgstr "Ordner"
+
+msgid "rss_me_load_image"
+msgstr "Bild laden"
+
+msgid "rss_me_manage_folders"
+msgstr "Ordner verwalten"
+
+msgid "rss_me_new_folder"
+msgstr "Neuer Ordner"
+
+msgid "rss_me_refresh"
+msgstr "Aktualisieren"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Feeds aktualisieren"
+
+msgid "rss_me_rename"
+msgstr "Umbenennen"
+
+msgid "rss_me_save_image"
+msgstr "Bild speichern unter"
+
+msgid "rss_me_search_results"
+msgstr "Suchergebnisse"
+
+msgid "rss_me_settings"
+msgstr "Einstellungen"
+
+msgid "rss_me_sort"
+msgstr "Sortieren"
+
+msgid "rss_me_tools"
+msgstr "Optionen"
+
+msgid "rss_me_view"
+msgstr "Ansicht"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Feed stornieren? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Gesamten Inhalt aus Bild-Cache löschen?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Hinzufügen des Feeds nicht möglich. Adresse ungültig."
+
+msgid "rss_ni_connection_timeout"
+msgstr ""
+"Hinzufügen eines oder mehrerer Feeds nicht möglich. Zeitüberschreitung bei "
+"der Verbindung."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Aktualisierung der Feeds kann nicht abgeschlossen werden"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Aktualisierung des Feeds kann nicht abgeschlossen werden"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Hinzufügen eines oder mehrerer Feeds nicht möglich. Adresse ungültig."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr ""
+"Aktualisieren eines oder mehrerer Feeds nicht möglich. Später erneut "
+"versuchen."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr ""
+"Aktualisieren des ausgewählten Feeds nicht möglich. Später erneut versuchen."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Fehler beim Laden dieses Verzeichnisses"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Fehler beim Analysieren dieses Feeds"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Zuerst Feednamen eingeben"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Zuerst Adresse eingeben."
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr ""
+"Vergrößern des Bild-Cache nicht möglich. Nicht genügend Speicherplatz in "
+"'%s'."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Öffnen des Bildes nicht möglich\n"
+"Datei von Server nicht gefunden."
+
+msgid "rss_nw_saving"
+msgstr "Wird gespeichert"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Verbindung wird aufgebaut"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "%d/%d wird geladen"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Wird geladen"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Wird aktualisiert"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Feed hinzufügen"
+
+msgid "rss_ti_change_folder"
+msgstr "Ordner wechseln"
+
+msgid "rss_ti_feed_details"
+msgstr "Feed-Details"
+
+msgid "rss_ti_feed_directory"
+msgstr "Feed-Verzeichnis"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "OPML-Datei auswählen"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS-Desktop-Widget"
+
+msgid "rss_ti_manage_folders"
+msgstr "Ordner verwalten"
+
+msgid "rss_ti_new_folder"
+msgstr "Neuer Ordner"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Feeds aktualisieren"
+
+msgid "rss_ti_rename_folder"
+msgstr "Ordner umbenennen"
+
+msgid "rss_ti_search"
+msgstr "Suche"
+
+msgid "rss_ti_settings"
+msgstr "Einstellungen"
+
+msgid "rss_ti_updating"
+msgstr "Aktualisieren"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "Aus"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Internet"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 Stunde"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 Minuten"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 Stunden"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 Minuten"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 Stunden"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 Stunden"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Beliebige Verbindung"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN"

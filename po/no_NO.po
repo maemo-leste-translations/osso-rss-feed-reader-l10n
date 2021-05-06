@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS-leser"
+
+msgid "rss_bd_browse"
+msgstr "Bla gjennom"
+
+msgid "rss_bd_change_folder"
+msgstr "Bytt mappe"
+
+msgid "rss_bd_delete"
+msgstr "Slett"
+
+msgid "rss_bd_new"
+msgstr "Ny"
+
+msgid "rss_bd_refresh"
+msgstr "Oppdater"
+
+msgid "rss_bd_rename"
+msgstr "Endre navn"
+
+msgid "rss_bd_subscribe"
+msgstr "Abonner"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Stopp"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Bla automatisk"
+
+msgid "rss_fi_download_img"
+msgstr "Last ned bilder"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Åpner poster ved hjelp av"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Mappe"
+
+msgid "rss_ia_all_feeds"
+msgstr "Alle nyhetsoppdateringer"
+
+msgid "rss_ia_category"
+msgstr "Kategori"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Adresse"
+
+msgid "rss_ia_feed_folder"
+msgstr "Mappe"
+
+msgid "rss_ia_feed_title"
+msgstr "Tittel"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Nyhetsoppdateringene har aldri blitt oppdatert"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Bildehurtigbufferstørrelse"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d element funnet"
+msgstr[1] "%d elementer funnet"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Sist oppdatert %1$s kl. %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Laster inn"
+
+msgid "rss_ia_location"
+msgstr "Plassering"
+
+msgid "rss_ia_name"
+msgstr "Navn"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "RSS-mapper"
+
+msgid "rss_ia_no_feeds"
+msgstr "(ingen nyhetsoppdateringer)"
+
+msgid "rss_ia_no_posts"
+msgstr "(ingen poster)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Ingen nyhetsoppdateringer"
+
+msgid "rss_ia_refresh"
+msgstr "Oppdater"
+
+msgid "rss_ia_save_for_later"
+msgstr "Behold til senere"
+
+msgid "rss_ia_searching"
+msgstr "Søker"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Bare valgte nyhetsoppdatering"
+
+msgid "rss_ia_subscribed"
+msgstr "Abonnert på"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d ulest post"
+msgstr[1] "%d uleste poster"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automatisk"
+
+msgid "rss_ia_update_interval"
+msgstr "Oppdateringsintervall"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Når tilkoblet til"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d post lagret for senere referanse"
+msgstr[1] "%d poster lagret for senere referanse"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Du har abonnert på %d nyhetsoppdatering"
+msgstr[1] "Du har abonnert på %d nyhetsoppdateringer"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Kan ikke starte oppdatering under søk"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Skriv inn søkeord"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Automatisk oppdatering av nyhetsoppdateringer er ikke aktivert"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Ingen nyhetsoppdatering er valgt"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Ingen tidligere søkeresultater.\n"
+"Start nytt søk."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Ingenting å lime inn"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Oppdatering er allerede i gang"
+
+msgid "rss_ib_search_completed"
+msgstr "Søk fullført"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Søk avbrutt"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Abonneringsprosessen er allerede i gang"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Kan ikke legge til nyhetsoppdatering mens det foretas en oppdatering"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Kan ikke legge til nyhetsoppdatering mens det foretas et søk"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Kan ikke endre målmappen under abonneringsprosessen"
+
+msgid "rss_ib_unable_edit"
+msgstr "Kan ikke redigere detaljer mens det foretas en oppdatering"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Kan ikke redigere detaljer mens det foretas et søk"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Kan ikke administrere mapper mens det foretas et søk"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Kan ikke åpne mens det foretas en oppdatering"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Kan ikke åpne mens det foretas et søk"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Kan ikke legge til nyhetsoppdatering i valgt mappe"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Kan ikke opprette mappe i valgt mappe"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Kan ikke flytte valgt nyhetsoppdatering"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Kan ikke flytte elementer hit"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Kan ikke lime inn her"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Kan ikke stoppe abonnement mens det foretas en oppdatering"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Kan ikke stoppe abonnement mens det foretas et søk"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Kan ikke stoppe abonnement på valgt nyhetsoppdatering"
+
+msgid "rss_me_add_a_feed"
+msgstr "Legg til"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Tømme bildehurtigbuffer"
+
+msgid "rss_me_copy_link"
+msgstr "Kopier koblingsplassering"
+
+msgid "rss_me_delete"
+msgstr "Slett"
+
+msgid "rss_me_edit"
+msgstr "Rediger"
+
+msgid "rss_me_feed"
+msgstr "Nyhetsoppdatering"
+
+msgid "rss_me_feed_directory"
+msgstr "Nyhetsoppdateringskatalog"
+
+msgid "rss_me_folders"
+msgstr "Mapper"
+
+msgid "rss_me_load_image"
+msgstr "Last inn bilde"
+
+msgid "rss_me_manage_folders"
+msgstr "Administrer mapper"
+
+msgid "rss_me_new_folder"
+msgstr "Ny mappe"
+
+msgid "rss_me_refresh"
+msgstr "Oppdater"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Oppdater nyhetsoppdateringer"
+
+msgid "rss_me_rename"
+msgstr "Endre navn"
+
+msgid "rss_me_save_image"
+msgstr "Lagre bilde som"
+
+msgid "rss_me_search_results"
+msgstr "Søkeresultater"
+
+msgid "rss_me_settings"
+msgstr "Innstillinger"
+
+msgid "rss_me_sort"
+msgstr "Sorter"
+
+msgid "rss_me_tools"
+msgstr "Verktøy"
+
+msgid "rss_me_view"
+msgstr "Vis"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr ""
+"Stoppe abonnement på nyhetsoppdatering?\n"
+"%s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Slette alt innhold fra bildehurtigbuffer?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Kan ikke legge til nyhetsoppdatering. Adressen er ugyldig."
+
+msgid "rss_ni_connection_timeout"
+msgstr ""
+"Kan ikke legge til én eller flere nyhetsoppdateringer. Tidsavbrudd for "
+"tilkobling."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Kan ikke fullføre nyhetsoppdateringer som oppdateres"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Kan ikke fullføre oppdatering av nyhetsoppdatering"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr ""
+"Kan ikke legge til én eller flere nyhetsoppdateringer. Adressen er ugyldig."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr ""
+"Kan ikke oppdatere én eller flere nyhetsoppdateringer. Prøv igjen senere."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Kan ikke oppdatere valgt nyhetsoppdatering. Prøv igjen senere."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Det oppstod feil under innlasting av denne katalogen"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Det oppstod feil under analysen av denne nyhetsoppdateringen"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Skriv inn navn på nyhetsoppdateringen først"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Skriv inn adressen først"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr ""
+"Kan ikke øke størrelsen på bildehurtigbuffer. Ikke nok ledig minne i %s."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Kan ikke åpne bilde.\n"
+"Finner ikke fil fra server."
+
+msgid "rss_nw_saving"
+msgstr "Lagrer"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Kobler til"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Laster inn %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Laster inn"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Oppdaterer"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Legg til nyhetsoppdatering"
+
+msgid "rss_ti_change_folder"
+msgstr "Bytt mappe"
+
+msgid "rss_ti_feed_details"
+msgstr "Detaljer for nyhetsoppdatering"
+
+msgid "rss_ti_feed_directory"
+msgstr "Nyhetsoppdateringskatalog"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Velg OPML-fil"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS-miniprogram på skrivebordet"
+
+msgid "rss_ti_manage_folders"
+msgstr "Administrer mapper"
+
+msgid "rss_ti_new_folder"
+msgstr "Ny mappe"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS-leser"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Oppdater nyhetsoppdateringer"
+
+msgid "rss_ti_rename_folder"
+msgstr "Endre navn"
+
+msgid "rss_ti_search"
+msgstr "Søk"
+
+msgid "rss_ti_settings"
+msgstr "Innstillinger"
+
+msgid "rss_ti_updating"
+msgstr "Oppdaterer"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "Av"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS-leser"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Nettleser"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 time"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 minutter"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 timer"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 minutter"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 timer"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 timer"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Alle tilkoblinger"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN"

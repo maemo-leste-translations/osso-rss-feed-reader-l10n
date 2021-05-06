@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Parcourir"
+
+msgid "rss_bd_change_folder"
+msgstr "Chg. dossier"
+
+msgid "rss_bd_delete"
+msgstr "Supprimer"
+
+msgid "rss_bd_new"
+msgstr "Nouveau"
+
+msgid "rss_bd_refresh"
+msgstr "Rafraîchir"
+
+msgid "rss_bd_rename"
+msgstr "Renommer"
+
+msgid "rss_bd_subscribe"
+msgstr "S'abonner"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Se désabonner"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Défilement automatique"
+
+msgid "rss_fi_download_img"
+msgstr "Télécharger les images"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Ouvrir messages à partir de"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Dossier"
+
+msgid "rss_ia_all_feeds"
+msgstr "Tous les flux"
+
+msgid "rss_ia_category"
+msgstr "Catégorie"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Adresse"
+
+msgid "rss_ia_feed_folder"
+msgstr "Dossier"
+
+msgid "rss_ia_feed_title"
+msgstr "Titre"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Les flux n'ont jamais été actualisés"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Taille du cache image"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d élément trouvé"
+msgstr[1] "%d éléments trouvés"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Dernier rafraîchissement le %1$s à %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Chargement"
+
+msgid "rss_ia_location"
+msgstr "Emplacement"
+
+msgid "rss_ia_name"
+msgstr "Nom"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "Dossiers de flux RSS"
+
+msgid "rss_ia_no_feeds"
+msgstr "(aucun flux)"
+
+msgid "rss_ia_no_posts"
+msgstr "(aucun message)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Aucun abonnement à un flux"
+
+msgid "rss_ia_refresh"
+msgstr "Rafraîchir"
+
+msgid "rss_ia_save_for_later"
+msgstr "Conserver"
+
+msgid "rss_ia_searching"
+msgstr "Recherche en cours"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Flux sélectionné uniquement"
+
+msgid "rss_ia_subscribed"
+msgstr "Abonnement"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d message non lu"
+msgstr[1] "%d messages non lus"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automatiquement"
+
+msgid "rss_ia_update_interval"
+msgstr "Intervalle de mise à jour"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Une fois connecté à"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d message enregistré pour consultation ultérieure"
+msgstr[1] "%d messages enregistrés pour consultation ultérieure"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Vous vous êtes abonné à %d flux"
+msgstr[1] "Vous vous êtes abonné à %d flux"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Impossible de lancer le rafraîchissement pendant la recherche"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Entrer les mots clés"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Mise à jour automatique des flux désactivée"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Aucun flux sélectionné"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Aucun résultat de recherche précédente.\n"
+"Démarrer nouvelle recherche."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Rien à coller"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Opération de rafraîchissement déjà en cours"
+
+msgid "rss_ib_search_completed"
+msgstr "Recherche terminée"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Recherche annulée"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Opération d'abonnement déjà en cours"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Impossible d'ajouter un flux pendant le rafraîchissement"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Impossible d'ajouter un flux pendant la recherche"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Impossible de changer le dossier cible pendant l'abonnement"
+
+msgid "rss_ib_unable_edit"
+msgstr "Impossible de modifier les détails pendant le rafraîchissement"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Impossible de modifier les détails pendant la recherche"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Impossible de gérer les dossiers pendant la recherche"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Impossible d'ouvrir pendant le rafraîchissement"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Impossible d'ouvrir pendant la recherche"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Impossible d'ajouter le flux au dossier sélectionné"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Impossible de créer un dossier dans le dossier sélectionné"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Impossible de déplacer le flux sélectionné"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Impossible de déplacer les éléments à cet emplacement"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Impossible de coller ici"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Impossible de se désabonner pendant le rafraîchissement"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Impossible de se désabonner pendant la recherche"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Impossible de se désabonner du flux sélectionné"
+
+msgid "rss_me_add_a_feed"
+msgstr "Ajouter"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Vider le cache image"
+
+msgid "rss_me_copy_link"
+msgstr "Copier emplacement du lien"
+
+msgid "rss_me_delete"
+msgstr "Supprimer"
+
+msgid "rss_me_edit"
+msgstr "Édition"
+
+msgid "rss_me_feed"
+msgstr "Flux"
+
+msgid "rss_me_feed_directory"
+msgstr "Répertoire de flux"
+
+msgid "rss_me_folders"
+msgstr "Dossiers"
+
+msgid "rss_me_load_image"
+msgstr "Charger l'image"
+
+msgid "rss_me_manage_folders"
+msgstr "Organiser les dossiers"
+
+msgid "rss_me_new_folder"
+msgstr "Nouveau dossier"
+
+msgid "rss_me_refresh"
+msgstr "Rafraîchir"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Rafraîchir les flux "
+
+msgid "rss_me_rename"
+msgstr "Renommer"
+
+msgid "rss_me_save_image"
+msgstr "Enregistrer l'image sous…"
+
+msgid "rss_me_search_results"
+msgstr "Résultats de recherche"
+
+msgid "rss_me_settings"
+msgstr "Paramètres"
+
+msgid "rss_me_sort"
+msgstr "Trier"
+
+msgid "rss_me_tools"
+msgstr "Outils"
+
+msgid "rss_me_view"
+msgstr "Affichage"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Se désabonner du flux ? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Supprimer tout le contenu du cache image ?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Impossible d'ajouter le flux. Adresse non valide."
+
+msgid "rss_ni_connection_timeout"
+msgstr "Impossible d'ajouter un ou plusieurs flux. Connexion expirée."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Impossible de rafraîchir les flux"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Impossible de rafraîchir le flux"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Impossible d'ajouter un ou plusieurs flux. Adresse non valide."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr ""
+"Impossible de rafraîchir un ou plusieurs flux. Réessayer ultérieurement."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr ""
+"Impossible de rafraîchir le flux sélectionné. Réessayer ultérieurement."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Erreurs détectées pendant le chargement de ce répertoire"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Erreurs détectées pendant l'analyse de ce flux"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Entrer d'abord le nom du flux"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Entrer d'abord l'adresse"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr ""
+"Impossible d'augmenter la taille du cache image. Mémoire libre insuffisante "
+"dans %s."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Impossible d'ouvrir l'image.\n"
+"Fichier introuvable sur le serveur."
+
+msgid "rss_nw_saving"
+msgstr "Enregistrement en cours"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Connexion"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Chargement de %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Chargement"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Rafraîchissement"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Ajouter un flux"
+
+msgid "rss_ti_change_folder"
+msgstr "Changer de dossier"
+
+msgid "rss_ti_feed_details"
+msgstr "Détails du flux"
+
+msgid "rss_ti_feed_directory"
+msgstr "Répertoire de flux"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Sélectionner le fichier OPML"
+
+msgid "rss_ti_home_applet"
+msgstr "Widget RSS du bureau"
+
+msgid "rss_ti_manage_folders"
+msgstr "Organiser les dossiers"
+
+msgid "rss_ti_new_folder"
+msgstr "Nouveau dossier"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Rafraîchir les flux "
+
+msgid "rss_ti_rename_folder"
+msgstr "Renommer dossier"
+
+msgid "rss_ti_search"
+msgstr "Rechercher"
+
+msgid "rss_ti_settings"
+msgstr "Paramètres"
+
+msgid "rss_ti_updating"
+msgstr "Mise à jour"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 Mo"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 Mo"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 Mo"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 Mo"
+
+msgid "rss_va_img_cache_off"
+msgstr "Cache désactivé"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Web"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 heure"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 minutes"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 heures"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 minutes"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 heures"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 heures"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Toute connexion"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "Réseau local sans fil"
