@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-05-29 22:07+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Gözat"
+
+msgid "rss_bd_change_folder"
+msgstr "Klasör değiştir"
+
+msgid "rss_bd_delete"
+msgstr "Sil"
+
+msgid "rss_bd_new"
+msgstr "Yeni"
+
+msgid "rss_bd_refresh"
+msgstr "Yenile"
+
+msgid "rss_bd_rename"
+msgstr "Adlandır"
+
+msgid "rss_bd_subscribe"
+msgstr "Abone ol"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Ayrıl"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Otomatik kaydırma"
+
+msgid "rss_fi_download_img"
+msgstr "Resimleri indir"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Bununla aç"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Klasör"
+
+msgid "rss_ia_all_feeds"
+msgstr "Tüm beslemeler"
+
+msgid "rss_ia_category"
+msgstr "Kategori"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Adres"
+
+msgid "rss_ia_feed_folder"
+msgstr "Klasör"
+
+msgid "rss_ia_feed_title"
+msgstr "Başlık"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Beslemeler asla yenilenmedi"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Resim önbellek alanı (MB)"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d öğe bulundu"
+msgstr[1] "%d öğe bulundu"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "En son %1$s tarihinde %2$s güncellendi"
+
+msgid "rss_ia_loading"
+msgstr "Yükleniyor"
+
+msgid "rss_ia_location"
+msgstr "Konum"
+
+msgid "rss_ia_name"
+msgstr "Ad"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "RSS besleme klasörleri"
+
+msgid "rss_ia_no_feeds"
+msgstr "(besleme yok)"
+
+msgid "rss_ia_no_posts"
+msgstr "(girdi yok)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Abone olunan besleme yok"
+
+msgid "rss_ia_refresh"
+msgstr "Yenile:"
+
+msgid "rss_ia_save_for_later"
+msgstr "Sonraya sakla"
+
+msgid "rss_ia_searching"
+msgstr "Aranıyor"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Sadece seçili besleme"
+
+msgid "rss_ia_subscribed"
+msgstr "Abone olundu"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d okunmamış girdi"
+msgstr[1] "%d okunmamış girdi"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Otomatik"
+
+msgid "rss_ia_update_interval"
+msgstr "Güncelleme sıklığı"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Bağlıyken"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d girdi sonraya saklandı"
+msgstr[1] "%d girdi sonraya saklandı"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "%d beslemeye abone oldunuz"
+msgstr[1] "%d beslemeye abone oldunuz"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Ararken yenilemeye başlanamıyor"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Anahtar kelimeleri girin"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Otomatik besleme güncellemesi aktif değil"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Hiç besleme seçilmedi"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Önceden arama sonucu yok.\n"
+"Yeni arama başlatın."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Yapıştıracak bir şey yok"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Yenileme işlemi zaten sürüyor"
+
+msgid "rss_ib_search_completed"
+msgstr "Arama tamamlandı"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Arama iptal edildi"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Abonelik işlemi zaten sürüyor"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Yenilerken besleme eklenemiyor"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Ararken besleme eklenemiyor"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Abone olunurken hedef klasör değiştirilemiyor"
+
+msgid "rss_ib_unable_edit"
+msgstr "Yenilerken detaylar düzenlenemiyor"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Ararken detaylar düzenlenemiyor"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Ararken klasörler yönetilemiyor"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Yenilerken açılamıyor"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Ararken açılamıyor"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Seçilen klasöre besleme eklenemiyor"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Seçilen klasörde klasör oluşturulamıyor"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Seçilen besleme taşınamıyor"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Buraya öğe taşınamıyor"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Buraya yapıştırılamıyor"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Yenilerken abonelikten ayrılınamıyor"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Ararken abonelikten ayrılınamıyor"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Seçili besleme aboneliğinden ayrılınamıyor"
+
+msgid "rss_me_add_a_feed"
+msgstr "Ekle"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Resim önbelleğini temizle"
+
+msgid "rss_me_copy_link"
+msgstr "Bağlantı konumunu kopyala"
+
+msgid "rss_me_delete"
+msgstr "Sil"
+
+msgid "rss_me_edit"
+msgstr "Düzenle"
+
+msgid "rss_me_feed"
+msgstr "Besleme"
+
+msgid "rss_me_feed_directory"
+msgstr "Besleme dizini"
+
+msgid "rss_me_folders"
+msgstr "Klasörler"
+
+msgid "rss_me_load_image"
+msgstr "Resmi yükle"
+
+msgid "rss_me_manage_folders"
+msgstr "Klasörleri yönet"
+
+msgid "rss_me_new_folder"
+msgstr "Yeni klasör"
+
+msgid "rss_me_refresh"
+msgstr "Yenile"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Beslemeleri yenile"
+
+msgid "rss_me_rename"
+msgstr "Adlandır"
+
+msgid "rss_me_save_image"
+msgstr "Resmi farklı kaydet"
+
+msgid "rss_me_search_results"
+msgstr "Arama sonuçları"
+
+msgid "rss_me_settings"
+msgstr "Ayarlar"
+
+msgid "rss_me_sort"
+msgstr "Sırala"
+
+msgid "rss_me_tools"
+msgstr "Araçlar"
+
+msgid "rss_me_view"
+msgstr "Görünüm"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Besleme aboneliğinden ayrıl? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Resim önbelleğindeki tüm içeriği temizle?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Besleme eklenemiyor. Adres geçersiz."
+
+msgid "rss_ni_connection_timeout"
+msgstr "Bir ya da daha fazla besleme eklenemiyor. Bağlantı zaman-aşımı."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Beslemelerin yenilenmesi tamamlanamıyor"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Beslemenin yenilenmesi tamamlanamıyor"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Bir veya daha fazla besleme eklenemiyor. Adres geçersiz."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "Bir veya daha fazla besleme yenilenemiyor. Sonra tekrar deneyin."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Seçili besleme yenilenemiyor. Sonra tekrar deneyin."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Bu klasör yüklenirken hatalar oluştu"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Bu besleme ayrıştırılırken hatalar oluştu"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Önce besleme adını girin"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Önce adresi girin"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "Resim önbellek boyutu arttırılamıyor. %s üzerinde bellek yetersiz."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Unable to open image.\n"
+"File not found from server."
+
+msgid "rss_nw_saving"
+msgstr "Kaydediliyor"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Bağlanıyor"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Yükleniyor %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Yükleniyor"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Yenileniyor"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Besleme ekle"
+
+msgid "rss_ti_change_folder"
+msgstr "Klasör değiştir"
+
+msgid "rss_ti_feed_details"
+msgstr "Besleme detayları"
+
+msgid "rss_ti_feed_directory"
+msgstr "Besleme dizini"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "OPML dosyasını seçin"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS Masaüstü Aracı"
+
+msgid "rss_ti_manage_folders"
+msgstr "Klasörleri yönet"
+
+msgid "rss_ti_new_folder"
+msgstr "Yeni klasör"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Beslemeleri yenile"
+
+msgid "rss_ti_rename_folder"
+msgstr "Klasörü adlandır"
+
+msgid "rss_ti_search"
+msgstr "Ara"
+
+msgid "rss_ti_settings"
+msgstr "Ayarlar"
+
+msgid "rss_ti_updating"
+msgstr "Güncelleme"
+
+msgid "rss_va_img_cache_1"
+msgstr "1"
+
+msgid "rss_va_img_cache_2"
+msgstr "2"
+
+msgid "rss_va_img_cache_4"
+msgstr "4"
+
+msgid "rss_va_img_cache_8"
+msgstr "8"
+
+msgid "rss_va_img_cache_off"
+msgstr "Kapalı"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Web"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 saat"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 dakika"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 saat"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 dakika"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 saat"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 saat"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Herhangi bağlantı"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "Wi-Fi"
