@@ -1,0 +1,433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-04-28 02:37+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "تصفح"
+
+msgid "rss_bd_change_folder"
+msgstr "تغير الملف"
+
+msgid "rss_bd_delete"
+msgstr "حذف"
+
+msgid "rss_bd_new"
+msgstr "جديد"
+
+msgid "rss_bd_refresh"
+msgstr "تحديث"
+
+msgid "rss_bd_rename"
+msgstr "إعادة تسمية"
+
+msgid "rss_bd_subscribe"
+msgstr "أشتراك"
+
+msgid "rss_bd_unsubscribe"
+msgstr "إلغاء الأشتراك"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "التحريك التلقائي"
+
+msgid "rss_fi_download_img"
+msgstr "تحميل الصور"
+
+msgid "rss_fi_open_posts_to"
+msgstr "فتح المشاركة بستخدام"
+
+msgid "rss_ia_add_to_folder"
+msgstr "ملف"
+
+msgid "rss_ia_all_feeds"
+msgstr "جميع الملقمات"
+
+msgid "rss_ia_category"
+msgstr "كتالوج"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "عنوان"
+
+msgid "rss_ia_feed_folder"
+msgstr "ملف"
+
+msgid "rss_ia_feed_title"
+msgstr "عنوان"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "الملقمات لم تحدث من قبل"
+
+msgid "rss_ia_img_cache_size"
+msgstr "حجم الصورة المؤقت"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d عنصر تم أيجاده"
+msgstr[1] "%d عنصر تم أيجاده"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "آخر تحديث اليوم %1$s at %2$s"
+
+msgid "rss_ia_loading"
+msgstr "جاري التحميل"
+
+msgid "rss_ia_location"
+msgstr "الموقع"
+
+msgid "rss_ia_name"
+msgstr "الأسم"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "RSS ملفات الملقم"
+
+msgid "rss_ia_no_feeds"
+msgstr "(لايوجد ملقم)"
+
+msgid "rss_ia_no_posts"
+msgstr "(لايوجد ردود)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "لايوجد مشاركات مع المغذيات"
+
+msgid "rss_ia_refresh"
+msgstr "تحديث:"
+
+msgid "rss_ia_save_for_later"
+msgstr "القرائة في ما بعد"
+
+msgid "rss_ia_searching"
+msgstr "جارى البحث"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "أختيار الملقمات فقط"
+
+msgid "rss_ia_subscribed"
+msgstr "الأشتراكات"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d رد غير مقروءة"
+msgstr[1] "%d ردود غير مقروءة"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "تلقائي"
+
+msgid "rss_ia_update_interval"
+msgstr "مهلة التحديث"
+
+msgid "rss_ia_update_when_connected"
+msgstr "عند الأتصال"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d تم الأحتفاظ بالرد لرجوع إليه لاحقا"
+msgstr[1] "%d تم الاحتفاظ بالردود لرجوع إليهم لاحقا"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "أنت مشترك في %d ملقم"
+msgstr[1] "أنت مشترك في %d ملقم"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "غير قادر على التحديث أثناء البحث"
+
+msgid "rss_ib_enter_key_words"
+msgstr "أدخل الكلمات"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "التحديث التلقائي للملقم غير ممكن"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "لاتوجد ملقمات مختارة"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"لاتوجد نتائج سابقة.\n"
+"البدأ ببحث جديد."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "لايوجد شيئ للمشاركة"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "تحديث العملية جارى بالفعل"
+
+msgid "rss_ib_search_completed"
+msgstr "أكتمل البحث"
+
+msgid "rss_ib_search_interrupted"
+msgstr "تم ألغاء عملية البحث"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "عملية الأشتراك جارية بالفعل"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "غير قادر على أضافة الملقم أثناء التحديث"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "غير قادر على أضافة الملقم أثناء البحث"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "غير قادر على تغير مسار الملف أثناء المشاركة"
+
+msgid "rss_ib_unable_edit"
+msgstr "غير قادر على تحرير التفاصيل أثناء التحديث"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "غير قادر على تحرير التفاصيل أثناء البحث"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "غير قادر على ترتيب الملفات أثناء البحث"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "غير قادر على الفتح أثناء التحديث"
+
+msgid "rss_ib_unable_search_open"
+msgstr "غير قادر على الفتح أثناء البحث"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "غير قادر على أضافة ملقم لهذا الملف"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "غير قادر على أضافة ملف في هذا الملف"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "غير قادر على تحريك الملقم المحدد"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "غير قادر على نقل الكائن إلى هنا"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "غير قادر على اللصق هنا"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "غير قادر على إلغاء الأشتراك أثناء التحديث"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "غير قادر على إلغاء الأشتراك أثناء البحث"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "غير قادر على إلغاء الأشتراك من الملقم المختار"
+
+msgid "rss_me_add_a_feed"
+msgstr "أضافة"
+
+msgid "rss_me_clear_image_cache"
+msgstr "مسح الصور المؤقتة"
+
+msgid "rss_me_copy_link"
+msgstr "نسخ رابط الموقع"
+
+msgid "rss_me_delete"
+msgstr "حذف"
+
+msgid "rss_me_edit"
+msgstr "تحرير"
+
+msgid "rss_me_feed"
+msgstr "الملقم"
+
+msgid "rss_me_feed_directory"
+msgstr "دليل الملقم"
+
+msgid "rss_me_folders"
+msgstr "الملفات"
+
+msgid "rss_me_load_image"
+msgstr "تحميل الصورة"
+
+msgid "rss_me_manage_folders"
+msgstr "إدارة الملفات"
+
+msgid "rss_me_new_folder"
+msgstr "ملف جديد"
+
+msgid "rss_me_refresh"
+msgstr "تحديث"
+
+msgid "rss_me_refresh_feeds"
+msgstr "تحديث الملقمات"
+
+msgid "rss_me_rename"
+msgstr "إعادة تسمية"
+
+msgid "rss_me_save_image"
+msgstr "حفظ الصورة بأسم"
+
+msgid "rss_me_search_results"
+msgstr "نتائج البحث"
+
+msgid "rss_me_settings"
+msgstr "الأعدادات"
+
+msgid "rss_me_sort"
+msgstr "فرز"
+
+msgid "rss_me_tools"
+msgstr "الأدوات"
+
+msgid "rss_me_view"
+msgstr "مشاهدة"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "إلغاء الأشتراك من الملقم? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "مسح كافة المحتويات من الذاكره المؤقتة لصور?"
+
+msgid "rss_ni_adding_failed"
+msgstr "غير قادر على أضافة الملقم. العنوان غير صالح."
+
+msgid "rss_ni_connection_timeout"
+msgstr "غير قادر على أضافة واحد أو أكثر من الملقمات. فترة الأتصال أنتهت."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "غير قادر على أكمال تحديث الملقمات"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "غير قادر على أكمال تحديث الملقم"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "غير قادر على أضافة واحد أو أكثر من الملقمات. العنوان غير صالح"
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "غير قادر على تحديث واحد أو أكثر من الملقمات. أعد المحالوة لاحقا ً."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "غير قادر على تحديث الملقم المحدد. أعد المحاولة لاحقا."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "حدث أخطاء أثناء تحميل هذا الدليل"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "حدث أخطاء أثناء تحليل الملقمات "
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "أدخل أسم الملقم أولا ً"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "أدخل العنوان أولا ً"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "غير قادر على زيادة ذاكرة الصور المؤقته. لاتوجد مساحة كافيه في %s."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"غير قادر على فتح الصور.\n"
+"الملف غير موجود في الخادم."
+
+msgid "rss_nw_saving"
+msgstr "جاري الحفظ"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "جاري الأتصال"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "جاري التحميل %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "جاري التحميل"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "جاري التحديث"
+
+msgid "rss_ti_add_a_feed"
+msgstr "أضافة ملقم"
+
+msgid "rss_ti_change_folder"
+msgstr "تغير الملف"
+
+msgid "rss_ti_feed_details"
+msgstr "خصائص الملقم"
+
+msgid "rss_ti_feed_directory"
+msgstr "دليل الملقم"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr " OPML أختيار ملف"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS لسطح المكتب Widget"
+
+msgid "rss_ti_manage_folders"
+msgstr "إدارة الملفات"
+
+msgid "rss_ti_new_folder"
+msgstr "ملف جديد"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "تحديث الملقمات"
+
+msgid "rss_ti_rename_folder"
+msgstr "إعادة التسمية للملف"
+
+msgid "rss_ti_search"
+msgstr "بحث"
+
+msgid "rss_ti_settings"
+msgstr "إعدادات"
+
+msgid "rss_ti_updating"
+msgstr "جاري التحديث"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "تعطيل"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "شبكة"
+
+msgid "rss_va_update_interval_1"
+msgstr "ساعة"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 دقيقة"
+
+msgid "rss_va_update_interval_2"
+msgstr "ساعتان"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 دقيقة"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 ساعات"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 ساعات"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "إي أتصال"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "Wi-Fi"
+
