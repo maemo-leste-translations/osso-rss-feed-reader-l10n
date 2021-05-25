@@ -1,0 +1,443 @@
+#
+# Roman Moravčík <roman.moravcik@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-03-27 23:40+0100\n"
+"Last-Translator:\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Prechádzať"
+
+msgid "rss_bd_change_folder"
+msgstr "Zmeniť zložku"
+
+msgid "rss_bd_delete"
+msgstr "Odstrániť"
+
+msgid "rss_bd_new"
+msgstr "Nová"
+
+msgid "rss_bd_refresh"
+msgstr "Obnoviť"
+
+msgid "rss_bd_rename"
+msgstr "Premenovať"
+
+msgid "rss_bd_subscribe"
+msgstr "Prihlásiť sa"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Odhlásiť sa"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Automatické rolovanie"
+
+msgid "rss_fi_download_img"
+msgstr "Stiahnuť obrázky"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Otvoriť príspevky pomocou"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Zložka"
+
+msgid "rss_ia_all_feeds"
+msgstr "Všetky informačné kanály"
+
+msgid "rss_ia_category"
+msgstr "Kategórie"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Adresa"
+
+msgid "rss_ia_feed_folder"
+msgstr "Zložka"
+
+msgid "rss_ia_feed_title"
+msgstr "Názov"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Informačný kanál nebol nikdy obnovený"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Veľkosť medzipamäte obrázkov"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "Nenájdená %d položka"
+msgstr[1] "Nenájdené %d položky"
+msgstr[2] "Nenájdených %d položiek"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Posledné obnovenie %1$s v %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Načítanie"
+
+msgid "rss_ia_location"
+msgstr "Umiestnenie"
+
+msgid "rss_ia_name"
+msgstr "Názov"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "Zložky informačných kanálov RSS"
+
+msgid "rss_ia_no_feeds"
+msgstr "(žiadne informačné kanály)"
+
+msgid "rss_ia_no_posts"
+msgstr "(žiadne príspevky)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Žiadne odoberané informačné kanály"
+
+msgid "rss_ia_refresh"
+msgstr "Obnoviť"
+
+msgid "rss_ia_save_for_later"
+msgstr "Uchovať na neskôr"
+
+msgid "rss_ia_searching"
+msgstr "Hľadanie"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Iba vybrané informačné kanály"
+
+msgid "rss_ia_subscribed"
+msgstr "Odoberané"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d neprečítaný príspevok"
+msgstr[1] "%d neprečítané príspevky"
+msgstr[2] "%d neprečítaných príspevkov"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automaticky"
+
+msgid "rss_ia_update_interval"
+msgstr "Interval aktualizácie"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Pri pripojení k"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d príspevok uchovaný pre neskoršiu potrebu"
+msgstr[1] "%d príspevky uchované pre neskoršiu potrebu"
+msgstr[2] "%d príspevkov uchovaných pre neskoršiu potrebu"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Ste prihlásený k %d informačnému kanálu"
+msgstr[1] "Ste prihlásený k %d informačným kanálom"
+msgstr[2] "Ste prihlásený k %d informačným kanálom"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Nemožno spustiť obnovenie počas hľadania"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Vložte kľúčové slova"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Automatická aktualizácia informačného kanálu nie je zapnutá"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Nie je vybraný žiadny informačný kanál"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Žiadne výsledky predchádzajúceho hľadania.\n"
+"Spustite nové hľadanie."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Nič k vloženiu"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Operácia obnovenia už prebieha"
+
+msgid "rss_ib_search_completed"
+msgstr "Hľadanie dokončené"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Hľadanie zrušené"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Operácia prihlasovania už prebieha"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Nemožno pridať informačný kanál počas obnovovania"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Nemožno pridať informačný kanál počas hľadania"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Nemožno zmeniť cieľovou zložku počas prihlasovania"
+
+msgid "rss_ib_unable_edit"
+msgstr "Nemožno upraviť podrobnosti počas obnovovania"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Nemožno upraviť podrobnosti počas hľadania"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Nemožno spracovať zložky počas hľadania"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Nemožno otvoriť počas obnovovania"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Nemožno otvoriť počas hľadania"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Nemožno pridať informačný kanál k vybranej zložke"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Nemožno vytvoriť zložku vo vybranej zložke"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Nemožno presunúť vybraný informačný kanál"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Sem nemožno presunúť položky"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Nemožno sem vložiť"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Nemožno sa odhlásiť počas obnovovania"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Nemožno sa odhlásiť počas hľadania"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Nemožno sa odhlásiť z vybraného informačného kanálu"
+
+msgid "rss_me_add_a_feed"
+msgstr "Pridať"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Vymazať medzipamäť"
+
+msgid "rss_me_copy_link"
+msgstr "Kopírovať umiestnenie odkazu"
+
+msgid "rss_me_delete"
+msgstr "Odstrániť"
+
+msgid "rss_me_edit"
+msgstr "Upraviť"
+
+msgid "rss_me_feed"
+msgstr "Informačný kanál"
+
+msgid "rss_me_feed_directory"
+msgstr "Adresár informačného kanálu"
+
+msgid "rss_me_folders"
+msgstr "Zložky"
+
+msgid "rss_me_load_image"
+msgstr "Načítať obrázok"
+
+msgid "rss_me_manage_folders"
+msgstr "Spravovať zložky"
+
+msgid "rss_me_new_folder"
+msgstr "Nová zložka"
+
+msgid "rss_me_refresh"
+msgstr "Obnoviť"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Obnoviť informačné kanály"
+
+msgid "rss_me_rename"
+msgstr "Premenovať"
+
+msgid "rss_me_save_image"
+msgstr "Uložiť obrázok ako"
+
+msgid "rss_me_search_results"
+msgstr "Výsledky hľadania"
+
+msgid "rss_me_settings"
+msgstr "Nastavenie"
+
+msgid "rss_me_sort"
+msgstr "Triediť"
+
+msgid "rss_me_tools"
+msgstr "Nástroje"
+
+msgid "rss_me_view"
+msgstr "Zobraziť"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Odhlásiť sa z informačného kanálu? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Vymazať všetok obsah z medzipamäte obrázkov?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Nemožno pridať informačný kanál. Neplatná adresa."
+
+msgid "rss_ni_connection_timeout"
+msgstr ""
+"Nemožno pridať jeden alebo viacej informačných kanálov. Spojenie vypršalo."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Nemožno dokončiť obnovenie informačných kanálov"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Nemožno dokončiť obnovenie informačného kanálu"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr ""
+"Nemožno pridať jeden alebo viacej informačných kanálov. Neplatná adresa."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr ""
+"Nemožno obnoviť jeden alebo viacej informačných kanálov. Opakujte neskôr."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Nemožno obnoviť vybraný informačný kanál. Opakujte neskôr."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Pri načítaní tohoto adresára došlo k chybám"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Pri spracovaní tohoto informačného kanálu došlo k chybám"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Najskôr vložte názov informačného kanálu"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Najskôr vložte adresu"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr ""
+"Nemožno zväčšiť veľkosť medzipamäte obrázku. Nedostatok voľnej pamäte v %s."
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"Nemožno otvoriť obrázok.\n"
+"Súbor nenájdený na serveri."
+
+msgid "rss_nw_saving"
+msgstr "Ukladanie"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Pripájanie"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Načítavanie %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Načítavanie"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Obnovovanie"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Pridať informačný kanál"
+
+msgid "rss_ti_change_folder"
+msgstr "Zmeniť zložku"
+
+msgid "rss_ti_feed_details"
+msgstr "Podrobnosti informačného kanálu"
+
+msgid "rss_ti_feed_directory"
+msgstr "Adresár informačného kanálu"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Zvolte súbor OPML"
+
+msgid "rss_ti_home_applet"
+msgstr "Widget RSS na ploche"
+
+msgid "rss_ti_manage_folders"
+msgstr "Spravovať zložky"
+
+msgid "rss_ti_new_folder"
+msgstr "Nová zložka"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Obnoviť informačné kanály"
+
+msgid "rss_ti_rename_folder"
+msgstr "Premenovať zložku"
+
+msgid "rss_ti_search"
+msgstr "Hľadať"
+
+msgid "rss_ti_settings"
+msgstr "Nastavenie"
+
+msgid "rss_ti_updating"
+msgstr "Aktualizácia"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "Vypnuté"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Web"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 hodina"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 minút"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 hodiny"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 minút"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 hodiny"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 hodín"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Akékoľvek pripojenie"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN"
