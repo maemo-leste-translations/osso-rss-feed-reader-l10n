@@ -1,0 +1,433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-02-02 21:21-0000\n"
+"Last-Translator: Notari David <notaridavid@hotmail.com>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Böngészés"
+
+msgid "rss_bd_change_folder"
+msgstr "Könyvtár váltás"
+
+msgid "rss_bd_delete"
+msgstr "Törlés"
+
+msgid "rss_bd_new"
+msgstr "Új"
+
+msgid "rss_bd_refresh"
+msgstr "Frissítés"
+
+msgid "rss_bd_rename"
+msgstr "Átnevezés"
+
+msgid "rss_bd_subscribe"
+msgstr "Feliratkozás"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Leiratkozás"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Automatikus görgetés"
+
+msgid "rss_fi_download_img"
+msgstr "Képek letöltése"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Nyitott bejegyzések használata"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Könyvtár"
+
+msgid "rss_ia_all_feeds"
+msgstr "Minden hírfolyam"
+
+msgid "rss_ia_category"
+msgstr "Kategória"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Cím"
+
+msgid "rss_ia_feed_folder"
+msgstr "Könyvtár"
+
+msgid "rss_ia_feed_title"
+msgstr "Cím"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Hírfolyam soha nem volt frissítve"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Kép tároló méret"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d talált elem"
+msgstr[1] "%d talált elem"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Utolljára frissítve %1$s at %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Betöltés"
+
+msgid "rss_ia_location"
+msgstr "Hely"
+
+msgid "rss_ia_name"
+msgstr "Név"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "RSS hírfolyam könyvtárak"
+
+msgid "rss_ia_no_feeds"
+msgstr "(nincs hírfolyam)"
+
+msgid "rss_ia_no_posts"
+msgstr "(nincsenek értesítések)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Nincs előfizetett hírfolyam"
+
+msgid "rss_ia_refresh"
+msgstr "Frissítés:"
+
+msgid "rss_ia_save_for_later"
+msgstr "Megtart későbbre"
+
+msgid "rss_ia_searching"
+msgstr "Keresés"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Csak a kiválasztott hírfolyam"
+
+msgid "rss_ia_subscribed"
+msgstr "Feliratkozva"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d olvasatlan értesítés"
+msgstr[1] "%d olvasatlan értesítések"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automatikusan"
+
+msgid "rss_ia_update_interval"
+msgstr "Frissítési időköz"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Ha kapcsolodva van"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d értesítés megtartása későbbre"
+msgstr[1] "%d értesítések megtartása későbbre"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Feliratkoztál %d hírfolyamra"
+msgstr[1] "Feliratkoztál %d hírfolyamokra"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Nem lehet a frissítést elkezdeni amíg a keresés folyamatban van"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Kulcs szavak bevitele"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Automatikus hírfolyam frissítés nincs bekapcsolva"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Nincs hírfolyam kiválasztva"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr ""
+"Nincs keresési eredmény.\n"
+"Új keresés indítása."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Nincs mit beilleszteni"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Frissítési művelet már folyamatban"
+
+msgid "rss_ib_search_completed"
+msgstr "Keresés kész"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Keresés megszakítva"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Feliratkozási művelet már folyamatban"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Nem lehet hírfolyamot hozzáadni amíg a frissítés folyamatban van"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Nem lehet hírfolyamot hozzáadni amíg a keresés folyamatban van"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Nem lehet célkönyvtárat változtatni amíg a feliratkozás folyamatban van"
+
+msgid "rss_ib_unable_edit"
+msgstr "A tulajdonságok nem szerkeszthetőek amíg a frissítés folyamatban van"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "A tulajdonságok nem szerkeszthetőek amíg a keresés folyamatban van"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Nem lehet könyvtárakat rendezni amíg a keresés folyamatban van"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Nem lehet megnyitni míg a frissítés folyamatban van"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Nem lehet megnyitni míg a keresés folyamatban van"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Nem lehet hírfolyamaot hozzáadni a kiválasztott könyvtárhoz"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Nem lehet könyvtárat létrehozni a kiválasztott könyvtárban"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Nem lehet mozgatni a kiválasztott hírfolyamot"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Nem lehet az elemet ide mozgatni"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Nem lehet beilleszteni ide"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Nem lehet leiratkozni amíg a frissítés folyamatban van"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Nem lehet leiratkozni amíg a keresés folyamatban van"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Nem lehet leiratkozni a kiválasztott hírfolyamról"
+
+msgid "rss_me_add_a_feed"
+msgstr "Hozzáad"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Kép tároló törlése"
+
+msgid "rss_me_copy_link"
+msgstr "Link másolása"
+
+msgid "rss_me_delete"
+msgstr "Törlés"
+
+msgid "rss_me_edit"
+msgstr "Szerkesztés"
+
+msgid "rss_me_feed"
+msgstr "Hírfolyam"
+
+msgid "rss_me_feed_directory"
+msgstr "Hírfolyam könyvtár"
+
+msgid "rss_me_folders"
+msgstr "Könyvtárak"
+
+msgid "rss_me_load_image"
+msgstr "Kép betöltés"
+
+msgid "rss_me_manage_folders"
+msgstr "Könyvtárak rendezése"
+
+msgid "rss_me_new_folder"
+msgstr "Új könyvtár"
+
+msgid "rss_me_refresh"
+msgstr "Frissítés"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Hírfolyamok frissítése"
+
+msgid "rss_me_rename"
+msgstr "Átnevez"
+
+msgid "rss_me_save_image"
+msgstr "Kép mentése másként"
+
+msgid "rss_me_search_results"
+msgstr "Keresési eredmény"
+
+msgid "rss_me_settings"
+msgstr "Beállítások"
+
+msgid "rss_me_sort"
+msgstr "Rendezés"
+
+msgid "rss_me_tools"
+msgstr "Eszközök"
+
+msgid "rss_me_view"
+msgstr "Nézet"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Leiratkozik a hírfolyamról ? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Törli az összes tartalmat a kép tárolóból?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Hírfolyamot nem lehet hozzáadni. Érvénytelen cím."
+
+msgid "rss_ni_connection_timeout"
+msgstr "Nem lehet egy vagy több hírfolyamot hozzáadni. Kapcsolati idő túl lépés."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Nem lehet a hírfolyamok frissítését befejezni"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Nem lehet a hírfolyam frissítését befejezni"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Nem lehet egy vagy több hírfolyamot hozzáadni. Érvénytelen cím"
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "Nem lehet egy vagy több hírfolyamot frissíteni. Próbáld később."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Nem lehet a kiválasztott hírfolyamot frissíteni. Próbáld később"
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Hiba lépet fel a könyvtár betöltésekor"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Hiba lépet fel a hírfolyam elemzése közben"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Írd be a hírfolyam nevét először"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Írd be a címet először"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "Nem lehet a kép tárolót-t növelni. Nincs elég memória %s -on"
+
+msgid "rss_ni_unable_load_image"
+msgstr ""
+"A képet nem lehet megnyitni.\n"
+"A fájl nem található a szerveren."
+
+msgid "rss_nw_saving"
+msgstr "Mentés"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Kapcsolódás"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Betöltés %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Betöltés"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Frissítés folyamatban"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Hírfolyam hozzáadása"
+
+msgid "rss_ti_change_folder"
+msgstr "Könyvtár váltása"
+
+msgid "rss_ti_feed_details"
+msgstr "Hírfolyam részletei"
+
+msgid "rss_ti_feed_directory"
+msgstr "Hírfolyam könyvtár"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "OPML fájl kiválasztása"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS asztali alkalmazás"
+
+msgid "rss_ti_manage_folders"
+msgstr "Könyvtárak rendezése"
+
+msgid "rss_ti_new_folder"
+msgstr "Új könyvtár"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Hírfolyamok frissítése"
+
+msgid "rss_ti_rename_folder"
+msgstr "Könyvtár átnevezése"
+
+msgid "rss_ti_search"
+msgstr "Keresés"
+
+msgid "rss_ti_settings"
+msgstr "Beállítások"
+
+msgid "rss_ti_updating"
+msgstr "Frissítés"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "Ki"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Web"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 óra"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 perc"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 óra"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 perc"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 óra"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 óra"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Bármelyik kapcsolat"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN"
+
