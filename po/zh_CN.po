@@ -1,0 +1,427 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2012-05-30 14:43+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS阅读器"
+
+msgid "rss_bd_browse"
+msgstr "浏览"
+
+msgid "rss_bd_change_folder"
+msgstr "更改文件夹"
+
+msgid "rss_bd_delete"
+msgstr "删除"
+
+msgid "rss_bd_new"
+msgstr "新建"
+
+msgid "rss_bd_refresh"
+msgstr "刷新"
+
+msgid "rss_bd_rename"
+msgstr "重命名"
+
+msgid "rss_bd_subscribe"
+msgstr "订阅"
+
+msgid "rss_bd_unsubscribe"
+msgstr "取消订阅"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "自动滚屏"
+
+msgid "rss_fi_download_img"
+msgstr "下载图片"
+
+msgid "rss_fi_open_posts_to"
+msgstr "打开内容使用"
+
+msgid "rss_ia_add_to_folder"
+msgstr "文件夹"
+
+msgid "rss_ia_all_feeds"
+msgstr "全部RSS源"
+
+msgid "rss_ia_category"
+msgstr "类别"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "地址"
+
+msgid "rss_ia_feed_folder"
+msgstr "文件夹"
+
+msgid "rss_ia_feed_title"
+msgstr "标题"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "RSS源从未刷新"
+
+msgid "rss_ia_img_cache_size"
+msgstr "图片缓存"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "找到 %d 篇文章"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "最近刷新: %1$s %2$s"
+
+msgid "rss_ia_loading"
+msgstr "正在载入"
+
+msgid "rss_ia_location"
+msgstr "位置"
+
+msgid "rss_ia_name"
+msgstr "名称"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "RSS源文件夹"
+
+msgid "rss_ia_no_feeds"
+msgstr "(没有RSS源)"
+
+msgid "rss_ia_no_posts"
+msgstr "(没有文章)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "没有订阅的RSS源"
+
+msgid "rss_ia_refresh"
+msgstr "刷新"
+
+msgid "rss_ia_save_for_later"
+msgstr "请稍候"
+
+msgid "rss_ia_searching"
+msgstr "正在搜索"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "仅选中的RSS源"
+
+msgid "rss_ia_subscribed"
+msgstr "已订阅"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d 篇未读文章"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "自动更新RSS源"
+
+msgid "rss_ia_update_interval"
+msgstr "更新间隔"
+
+msgid "rss_ia_update_when_connected"
+msgstr "连接有效时自动更新"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "保留 %d 篇文章以备查阅"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "您已订阅 %d 个RSS源"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "搜索时无法刷新"
+
+msgid "rss_ib_enter_key_words"
+msgstr "输入关键字"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "未启用自动更新RSS源"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "没有选中RSS源"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr "无以前的搜索结果.\n开始新搜索."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "无法粘贴"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "正在进行刷新操作"
+
+msgid "rss_ib_search_completed"
+msgstr "搜索完成"
+
+msgid "rss_ib_search_interrupted"
+msgstr "搜索取消"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "正在进行订阅操作"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "刷新中无法添加RSS源"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "搜索中无法添加RSS源"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "订阅中无法修改目标文件夹"
+
+msgid "rss_ib_unable_edit"
+msgstr "刷新中无法编辑详情"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "搜索中无法编辑详情"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "搜索中无法管理文件夹"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "刷新中无法打开"
+
+msgid "rss_ib_unable_search_open"
+msgstr "搜索中无法打开"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "无法向选中的文件夹中添加RSS源"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "无法在选中的文件夹中创建文件夹"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "无法移动选中的RSS源"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "无法将条目移至此处"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "无法粘贴到此处"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "刷新中无法退订"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "搜索中无法退订"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "无法在选中的RSS源中退订"
+
+msgid "rss_me_add_a_feed"
+msgstr "添加"
+
+msgid "rss_me_clear_image_cache"
+msgstr "清空图片缓存"
+
+msgid "rss_me_copy_link"
+msgstr "复制链接地址"
+
+msgid "rss_me_delete"
+msgstr "删除"
+
+msgid "rss_me_edit"
+msgstr "编辑"
+
+msgid "rss_me_feed"
+msgstr "RSS源"
+
+msgid "rss_me_feed_directory"
+msgstr "RSS源目录"
+
+msgid "rss_me_folders"
+msgstr "文件夹"
+
+msgid "rss_me_load_image"
+msgstr "载入图片"
+
+msgid "rss_me_manage_folders"
+msgstr "管理文件夹"
+
+msgid "rss_me_new_folder"
+msgstr "新建文件夹"
+
+msgid "rss_me_refresh"
+msgstr "刷新"
+
+msgid "rss_me_refresh_feeds"
+msgstr "刷新RSS源"
+
+msgid "rss_me_rename"
+msgstr "重命名"
+
+msgid "rss_me_save_image"
+msgstr "图片另存为"
+
+msgid "rss_me_search_results"
+msgstr "搜索结果"
+
+msgid "rss_me_settings"
+msgstr "设置"
+
+msgid "rss_me_sort"
+msgstr "排序"
+
+msgid "rss_me_tools"
+msgstr "工具"
+
+msgid "rss_me_view"
+msgstr "查看"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "从RSS源中退订? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "清空图片缓存中的全部内容?"
+
+msgid "rss_ni_adding_failed"
+msgstr "无法添加RSS源. 地址无效."
+
+msgid "rss_ni_connection_timeout"
+msgstr "无法添加RSS源. 连接超时."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "无法完成刷新RSS源"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "无法刷新选中的RSS源"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "无法添加选中的RSS源. 地址无效."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "无法刷新一个或多个RSS源. 请重试."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "无法刷新选中的RSS源. 请重试."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "载入目录时发生错误"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "解析RSS源时发生错误"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "请先输入RSS源名称"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "请先输入地址"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "无法增加图像缓存大小. %s 中没有足够的内存."
+
+msgid "rss_ni_unable_load_image"
+msgstr "无法打开图片.服务器中未找到文件\n."
+
+msgid "rss_nw_saving"
+msgstr "正在保存"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "正在连接"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "正在载入 %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "正在载入"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "正在刷新"
+
+msgid "rss_ti_add_a_feed"
+msgstr "添加RSS源"
+
+msgid "rss_ti_change_folder"
+msgstr "选择文件夹"
+
+msgid "rss_ti_feed_details"
+msgstr "RSS源详情"
+
+msgid "rss_ti_feed_directory"
+msgstr "RSS源目录"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "RSS源目录"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS桌面Widget"
+
+msgid "rss_ti_manage_folders"
+msgstr "管理文件夹"
+
+msgid "rss_ti_new_folder"
+msgstr "新建文件夹"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS阅读器"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "刷新RSS源"
+
+msgid "rss_ti_rename_folder"
+msgstr "重命名文件夹"
+
+msgid "rss_ti_search"
+msgstr "搜索"
+
+msgid "rss_ti_settings"
+msgstr "设置"
+
+msgid "rss_ti_updating"
+msgstr "更新"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "关闭"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS阅读器"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "浏览器"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 小时"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 分钟"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 小时"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 分钟"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 小时"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 小时"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "所有连接"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "Wi-Fi"
