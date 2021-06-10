@@ -1,0 +1,427 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2011-11-06 15:31+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "مرور"
+
+msgid "rss_bd_change_folder"
+msgstr "تغییر پوشه"
+
+msgid "rss_bd_delete"
+msgstr "حذف"
+
+msgid "rss_bd_new"
+msgstr "جدید"
+
+msgid "rss_bd_refresh"
+msgstr "تازه کردن"
+
+msgid "rss_bd_rename"
+msgstr "تغییر نام"
+
+msgid "rss_bd_subscribe"
+msgstr "مشترک شدن"
+
+msgid "rss_bd_unsubscribe"
+msgstr "حذف اشتراک"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "اسکرول خودکار"
+
+msgid "rss_fi_download_img"
+msgstr "دانلود تصاویر"
+
+msgid "rss_fi_open_posts_to"
+msgstr "باز کردن پست‌ها با استفاده از"
+
+msgid "rss_ia_add_to_folder"
+msgstr "پوشه"
+
+msgid "rss_ia_all_feeds"
+msgstr "تمام خوراک ها"
+
+msgid "rss_ia_category"
+msgstr "دسته"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "آدرس"
+
+msgid "rss_ia_feed_folder"
+msgstr "پوشه"
+
+msgid "rss_ia_feed_title"
+msgstr "عنوان"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "خوراک‌ها هرگز تازه نشده‌اند"
+
+msgid "rss_ia_img_cache_size"
+msgstr "سایز کش تصویر"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] ""
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "آخرین بروزآوری در تاریخ %1$s ساعت %2$s"
+
+msgid "rss_ia_loading"
+msgstr "بارگذاری"
+
+msgid "rss_ia_location"
+msgstr "محل"
+
+msgid "rss_ia_name"
+msgstr "نام"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "پوشه‌ی خوراک‌های آر‌اس‌اس"
+
+msgid "rss_ia_no_feeds"
+msgstr "(هیچ خوارکی نیست)"
+
+msgid "rss_ia_no_posts"
+msgstr "(هیچ پستی نیست)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "هیچ خوراک مشترک شده‌‍ای نیست"
+
+msgid "rss_ia_refresh"
+msgstr "تازه کردن"
+
+msgid "rss_ia_save_for_later"
+msgstr "نگهداری برای بعد"
+
+msgid "rss_ia_searching"
+msgstr "در حال جستجو"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "ققط خوراک انتخاب شده"
+
+msgid "rss_ia_subscribed"
+msgstr "مشترک شدید"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] ""
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "بطور خودکار"
+
+msgid "rss_ia_update_interval"
+msgstr "فواصل بروزرسانی"
+
+msgid "rss_ia_update_when_connected"
+msgstr "آپدیت ، هنگامی که متصل شد به"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] ""
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] ""
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "امکان بروزآوری در حین جستجو وجود ندارد"
+
+msgid "rss_ib_enter_key_words"
+msgstr "کلمه‌ی کلیدی را وارد کنید"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "بروزآوری خودکار خوراک فعال نیست"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "اشتراکی انتخاب نشده"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr "چیزی از نتیجه‌های جستجوی قبلی وجود ندارد.\nجستجوی جدیدی آغاز کنید"
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "چیزی کپی نشده است تا جاگذاری شود"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "عملیات بروزآوری در حال انجام است"
+
+msgid "rss_ib_search_completed"
+msgstr "جستجو کامل شد"
+
+msgid "rss_ib_search_interrupted"
+msgstr "جستجو لغو شد"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "مشترک شدن در خوراک در حال انجام است"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "در هنگام بروزآوری امکان افزودن خوراک وجود ندارد"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "در هنگام جستجو امکان افزودن خوراک وجود ندارد"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "امکان تغییر در پوشه‌ی مقصد در طی مشترک شدن وجود ندارد"
+
+msgid "rss_ib_unable_edit"
+msgstr "امکان ویرایش جزئیات در هنگام بروزآوری وجود ندارد"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "امکان ویرایش جزئیات در هنگام جستجو وجود ندارد"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "مدیریت پوشه‌ها در هنگام جستجو امکان‌پذیر نیست"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "امکان باز کردن در هنگام بروزآوری وجود ندارد"
+
+msgid "rss_ib_unable_search_open"
+msgstr "امکان باز کردن در هنگام جستجو وجود ندارد"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "امکان افزودن خوراک به پوشه‌ی انتخابی وجود ندارد"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "ایجاد پوشه در پوشه‌ی انتخاب شده امکان‌پذیر نیست"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "امکان جابجایی خوراک انتخاب شده ، وجود ندارد"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "امکان جابجایی آیتم‌ها در این بخش وجود ندارد"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "امکان جاگذاری فایل کپی شده در این بخش وجود ندارد"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "امکان حذف اشتراک در حین بروزآوری وجود ندارد"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "لغو اشتراک در حال جستجو امکان‌پذیر نیست"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "لغو اشتراک از خوراک انتخاب شده امکان‌پذیر نیست"
+
+msgid "rss_me_add_a_feed"
+msgstr "افزودن"
+
+msgid "rss_me_clear_image_cache"
+msgstr "پاک کردن کش تصویر"
+
+msgid "rss_me_copy_link"
+msgstr "کپی کردن مکان لینک"
+
+msgid "rss_me_delete"
+msgstr "حذف"
+
+msgid "rss_me_edit"
+msgstr "ویرایش"
+
+msgid "rss_me_feed"
+msgstr "خوراک"
+
+msgid "rss_me_feed_directory"
+msgstr "راهنمای خوراک"
+
+msgid "rss_me_folders"
+msgstr "پوشه‌ها"
+
+msgid "rss_me_load_image"
+msgstr "بار گذاری عکس"
+
+msgid "rss_me_manage_folders"
+msgstr "مدیریت پوشه‌ها"
+
+msgid "rss_me_new_folder"
+msgstr "پوشه‌ی جدید"
+
+msgid "rss_me_refresh"
+msgstr "بروزآوری"
+
+msgid "rss_me_refresh_feeds"
+msgstr "بروزآوری خوراک‌ها"
+
+msgid "rss_me_rename"
+msgstr "تغییر نام"
+
+msgid "rss_me_save_image"
+msgstr "ذخیره‌ی عکس به عنوان"
+
+msgid "rss_me_search_results"
+msgstr "نتایج جستجو"
+
+msgid "rss_me_settings"
+msgstr "تنظیمات"
+
+msgid "rss_me_sort"
+msgstr "مرتب کردن"
+
+msgid "rss_me_tools"
+msgstr "ابزار"
+
+msgid "rss_me_view"
+msgstr "نما"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "آیا اشتراک را لغو می‌کنید? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "تمام محتویات کش تصویر حذف شوند؟"
+
+msgid "rss_ni_adding_failed"
+msgstr "اضافه کردن خوراک امکان‌پذیر نیست.آدرس اشتباه است"
+
+msgid "rss_ni_connection_timeout"
+msgstr "اضافه کردن یک یا چند خوراک امکان‌پذیر نیست.اتصال برقرار نیست"
+
+msgid "rss_ni_connection_was_lost"
+msgstr "امکان بروزآوری کامل خوراک‌ها وجود ندارد"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "امکان بروزآوری کامل خوراک وجود ندارد"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "اضافه کردن یک یا چند خوراک امکان پذیر نیست.آدرس معتبر نیست"
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "تازه کردن یک یا چند خوراک امکان پذیر نیست.بعداً امتحان کنید"
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "تازه کردن خوراک انتخاب شده امکان پذیر نیست.بعداً امتحان کنید"
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "در بارگذاری این شاخه خطاهایی رخ داده است"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "در تجزیه‌ی این خوراک خطاهایی رخ داده است"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "ابتدا نام خوراک را وارد کنید"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "ابتدا آدرس را وارد کنید"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "افزایش میزان حافظه‌ی کش تصویر امکان پذیر نیست.حافظه‌ی کافی در %s وجود ندارد"
+
+msgid "rss_ni_unable_load_image"
+msgstr "باز کردن این تصویر امکان پذیر نیست.\nفایل بر روی سرور یافت نشد"
+
+msgid "rss_nw_saving"
+msgstr "در حال ذخیره کردن"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "در حال اتصال"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "در حال بارگذاری %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "در حال بار‌گذاری"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "در حال بروزآوری"
+
+msgid "rss_ti_add_a_feed"
+msgstr "اضافه کردن خوراک"
+
+msgid "rss_ti_change_folder"
+msgstr "تغییر پوشه"
+
+msgid "rss_ti_feed_details"
+msgstr "جزییات خوراک"
+
+msgid "rss_ti_feed_directory"
+msgstr "راهنمای خوراک"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "انتخاب فایل OPML"
+
+msgid "rss_ti_home_applet"
+msgstr "ویجت آر‌اس‌اس دسکتاپ"
+
+msgid "rss_ti_manage_folders"
+msgstr "مدیریت پوشه‌ها"
+
+msgid "rss_ti_new_folder"
+msgstr "پوشه‌ی جدید"
+
+msgid "rss_ti_newsreader"
+msgstr "آراس‌اس"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "بروزآوری خوراک‌ها"
+
+msgid "rss_ti_rename_folder"
+msgstr "تغییر نام پوشه"
+
+msgid "rss_ti_search"
+msgstr "جستجو"
+
+msgid "rss_ti_settings"
+msgstr "تنظیمات"
+
+msgid "rss_ti_updating"
+msgstr "در حال بروزرسانی"
+
+msgid "rss_va_img_cache_1"
+msgstr "یک مگابایت"
+
+msgid "rss_va_img_cache_2"
+msgstr "دو مگابایت"
+
+msgid "rss_va_img_cache_4"
+msgstr "چهار مگابایت"
+
+msgid "rss_va_img_cache_8"
+msgstr "هشت مگابایت"
+
+msgid "rss_va_img_cache_off"
+msgstr "خاموش"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "آراس‌اس"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "وب"
+
+msgid "rss_va_update_interval_1"
+msgstr "یک ساعت"
+
+msgid "rss_va_update_interval_15"
+msgstr "پانزده دقیقه"
+
+msgid "rss_va_update_interval_2"
+msgstr "دو ساعت"
+
+msgid "rss_va_update_interval_30"
+msgstr "سی دقیقه"
+
+msgid "rss_va_update_interval_4"
+msgstr "چهار ساعت"
+
+msgid "rss_va_update_interval_8"
+msgstr "هشت ساعت"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "هر کانکشنی"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "وای‌فای"
