@@ -1,0 +1,431 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS емисии"
+
+msgid "rss_bd_browse"
+msgstr "Разглеждане"
+
+msgid "rss_bd_change_folder"
+msgstr "Промяна на папка"
+
+msgid "rss_bd_delete"
+msgstr "Изтриване"
+
+msgid "rss_bd_new"
+msgstr "Нова"
+
+msgid "rss_bd_refresh"
+msgstr "Обновяване"
+
+msgid "rss_bd_rename"
+msgstr "Преименуване"
+
+msgid "rss_bd_subscribe"
+msgstr "Абониране"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Отписване"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Автоматично прелистване"
+
+msgid "rss_fi_download_img"
+msgstr "Изображения"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Отваряне на публикациите с"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Папка"
+
+msgid "rss_ia_all_feeds"
+msgstr "Всички емисии"
+
+msgid "rss_ia_category"
+msgstr "Категория"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Адрес"
+
+msgid "rss_ia_feed_folder"
+msgstr "Папка"
+
+msgid "rss_ia_feed_title"
+msgstr "Заглавие"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Емисиите никога не са обновявани"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Кеш за изображения"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "намерен е %d елемент"
+msgstr[1] "намерени са %d елементи"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Последно обновяване на %1$s в %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Зареждане"
+
+msgid "rss_ia_location"
+msgstr "Място"
+
+msgid "rss_ia_name"
+msgstr "Име"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "Папки с RSS емисии"
+
+msgid "rss_ia_no_feeds"
+msgstr "(няма емисии)"
+
+msgid "rss_ia_no_posts"
+msgstr "(няма публикации)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Няма записани емисии"
+
+msgid "rss_ia_refresh"
+msgstr "Обновяване"
+
+msgid "rss_ia_save_for_later"
+msgstr "Запазване за по-късно"
+
+msgid "rss_ia_searching"
+msgstr "Търсене"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Само избраната емисия"
+
+msgid "rss_ia_subscribed"
+msgstr "Абонамент от:"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d непрочетена публикация"
+msgstr[1] "%d непрочетени публикации"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Автоматично"
+
+msgid "rss_ia_update_interval"
+msgstr "Интервал:"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Когато връзката е"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d публикация запазена за по-късна справка"
+msgstr[1] "%d публикации запазени за по-късна справка"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Записани сте към %d емисия"
+msgstr[1] "Записани сте към %d емисии"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Не може да бъде започнато обновяване докато се търси"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Въвеждане на низ"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Автоматичното обновяване на емисиите не е разрешено"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Не са избрани емисии"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr "Няма резултати от предно търсене.\nЗапочнете ново търсене."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Нищо за поставяне"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Обновяването вече е започнало"
+
+msgid "rss_ib_search_completed"
+msgstr "Търсенето приключи"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Търсенето бе прекъснато"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Абонирането вече е започнало"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Не може да бъде добавена емисия докато се обновява"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Не може да бъде добавена емисия докато се търси"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Не може да бъде променена папката докато се абонира"
+
+msgid "rss_ib_unable_edit"
+msgstr "Не може да се редактира докато се обновява"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Не може да се редактира докато се търси"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Не могат да се редактират папките докато се търси"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Не може да се отвори докато се обновява"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Не може да се отвори докато се търси"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Неуспешно добавене на емисията в избраната папка"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Неуспешно създаване на папка в избраното място"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Неуспешно преместване на избраната емисия"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Неуспешно преместване на елементите тук"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Неуспешно поставяне тук"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Не може да се отписва докато се обновява"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Не може да се отписва докато се търси"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Неуспешно отписване от избраната емисия"
+
+msgid "rss_me_add_a_feed"
+msgstr "Добавяне"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Изчистване на кеша за изображения"
+
+msgid "rss_me_copy_link"
+msgstr "Копиране на интернет адреса"
+
+msgid "rss_me_delete"
+msgstr "Изтриване"
+
+msgid "rss_me_edit"
+msgstr "Редактиране"
+
+msgid "rss_me_feed"
+msgstr "Емисия"
+
+msgid "rss_me_feed_directory"
+msgstr "Папка с емисии"
+
+msgid "rss_me_folders"
+msgstr "Папки"
+
+msgid "rss_me_load_image"
+msgstr "Зареждане на изображение"
+
+msgid "rss_me_manage_folders"
+msgstr "Управление на папките"
+
+msgid "rss_me_new_folder"
+msgstr "Нова папка"
+
+msgid "rss_me_refresh"
+msgstr "Обновяване"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Обновяване на емисиите"
+
+msgid "rss_me_rename"
+msgstr "Преименуване"
+
+msgid "rss_me_save_image"
+msgstr "Запазване на изображението като"
+
+msgid "rss_me_search_results"
+msgstr "Резултати от търсенето"
+
+msgid "rss_me_settings"
+msgstr "Настройки"
+
+msgid "rss_me_sort"
+msgstr "Подреждане"
+
+msgid "rss_me_tools"
+msgstr "Инструменти"
+
+msgid "rss_me_view"
+msgstr "Изглед"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Отписване от емисията? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Изчистване на съдържането от кеша за изображения?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Неуспешно добавяне на емисията. Невалиден адрес."
+
+msgid "rss_ni_connection_timeout"
+msgstr "Неуспешно добавяне на една или повече емисии. Времето за връзка изтече."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Неуспешно обновяване на емисиите"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Неуспешно обновяване на емисията"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Неуспешно добавяне на една или повече емисии. Невалиден адрес."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "Неуспешно добавяне на една или повече емисии. Опитайте отново по-късно."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Неуспешно обновяване на избраната емисия. Опитайте отново по-късно."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Възникна грешка при зареждането на тази папка"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Възникнаха грешки при обработката на тази емисия"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Първо въведете име на емисия"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Първо въведете интернет адрес"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "Неуспешно увеличаване на размера на кеша за изображения. Няма достатъчно място в %s."
+
+msgid "rss_ni_unable_load_image"
+msgstr "Неуспешно отваряне на изображението.\nФайлът не е намерен на сървъра."
+
+msgid "rss_nw_saving"
+msgstr "Запазване"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Свързване"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Зареждане %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Зареждане"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Обновяване"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Добавяне на емисия"
+
+msgid "rss_ti_change_folder"
+msgstr "Промяна на папка"
+
+msgid "rss_ti_feed_details"
+msgstr "Информация за емисия"
+
+msgid "rss_ti_feed_directory"
+msgstr "Папка с емисии"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Избор на OPML файл"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS джаджа"
+
+msgid "rss_ti_manage_folders"
+msgstr "Управление на папките"
+
+msgid "rss_ti_new_folder"
+msgstr "Нова папка"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS емисии"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Обновяване на емисиите"
+
+msgid "rss_ti_rename_folder"
+msgstr "Преименуване на папка"
+
+msgid "rss_ti_search"
+msgstr "Търсене"
+
+msgid "rss_ti_settings"
+msgstr "Настройки"
+
+msgid "rss_ti_updating"
+msgstr "Обновяване"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 МБ"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 МБ"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 МБ"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 МБ"
+
+msgid "rss_va_img_cache_off"
+msgstr "Изключен"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS емисии"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Браузър"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 час"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 минути"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 часа"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 минути"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 часа"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 часа"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Всяка връзка"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN"
