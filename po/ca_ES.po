@@ -1,0 +1,432 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Navega"
+
+msgid "rss_bd_change_folder"
+msgstr "Canvia la carpeta"
+
+msgid "rss_bd_delete"
+msgstr "Suprimeix"
+
+msgid "rss_bd_new"
+msgstr "Nou"
+
+msgid "rss_bd_refresh"
+msgstr "Actualitza"
+
+msgid "rss_bd_rename"
+msgstr "Reanomena"
+
+msgid "rss_bd_subscribe"
+msgstr "Subscriu"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Dessubscriu"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Desplaçament automàtic"
+
+msgid "rss_fi_download_img"
+msgstr "Baixa les imatges"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Obre les entrades fent servir"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Carpeta"
+
+msgid "rss_ia_all_feeds"
+msgstr "Tots els canals"
+
+msgid "rss_ia_category"
+msgstr "Categoria"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Adreça"
+
+msgid "rss_ia_feed_folder"
+msgstr "Carpeta"
+
+msgid "rss_ia_feed_title"
+msgstr "Títol"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Els canals no s'han actualitzat mai"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Mida cau de les imatges"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "S'ha trobat %d element"
+msgstr[1] "S'han trobat %d elements"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Darrera actualització el %1$s — %2$s"
+
+msgid "rss_ia_loading"
+msgstr "S'està carregant"
+
+msgid "rss_ia_location"
+msgstr "Ubicació"
+
+msgid "rss_ia_name"
+msgstr "Nom"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "Carpetes dels canals RSS"
+
+msgid "rss_ia_no_feeds"
+msgstr "(cap canal)"
+
+msgid "rss_ia_no_posts"
+msgstr "(cap entrada)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Cap canal subscrit"
+
+msgid "rss_ia_refresh"
+msgstr "Actualitza:"
+
+msgid "rss_ia_save_for_later"
+msgstr "Deixa-ho per més tard"
+
+msgid "rss_ia_searching"
+msgstr "S'està cercant"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Només el canal seleccionat"
+
+msgid "rss_ia_subscribed"
+msgstr "Subscrits"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d entrada per llegir"
+msgstr[1] "%d entrades per llegir"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Automàticament"
+
+msgid "rss_ia_update_interval"
+msgstr "Intèrval d'actualització"
+
+msgid "rss_ia_update_when_connected"
+msgstr "En connectar-se a"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "Es conserva %d entrada per a consulta posterior"
+msgstr[1] "Es conserven %d entrades per a consulta posterior"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Us heu subscrit a %d canal"
+msgstr[1] "Us heu subscrit a %d canals"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "No es pot començar a actualitzar mentre se cerca"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Introduïu unes paraules clau"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "L'actualització automàtica de canals no està habilitada"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "No s'ha seleccionat cap canal"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr "No hi ha cap resultat de cerca anterior.\nInicieu una cerca nova."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Res per enganxar."
+
+msgid "rss_ib_refresh_already_started"
+msgstr "L'operació d'actualització ja està en procés"
+
+msgid "rss_ib_search_completed"
+msgstr "S'ha acabat la cerca"
+
+msgid "rss_ib_search_interrupted"
+msgstr "S'ha cancel·lat la cerca"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "L'operació de subscripció ja està en procés"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "No s'ha pogut afegir un canal mentre s'actualitzava"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "No s'ha pogut afegir un canal mentre se cercava"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "No es pot canviar el directori destí durant la subscripció"
+
+msgid "rss_ib_unable_edit"
+msgstr "No es poden editar detalls mentre s'actualitza"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "No es poden editar els detalls quan es cerca"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "No es poden gestionar directoris mentre es cerca"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "No es pot obrir mentre s'actualitza"
+
+msgid "rss_ib_unable_search_open"
+msgstr "No es pot obrir mentre es cerca"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "No es pot afegir font al directori seleccionat"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "No es pot crear directori dins del directori seleccionat"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "No es pot moure la font seleccionada"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "No es poden moure objectes aquí"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "No es pot enganxar aquí"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "No es pot donar de baixa mentre s'actualitza"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "No es pot donar de baixa mentre es cerca"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "No es pot donar de baixa de la font seleccionada"
+
+msgid "rss_me_add_a_feed"
+msgstr "Afegeix"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Neteja la cau d'imatges"
+
+msgid "rss_me_copy_link"
+msgstr "Copia l'enllaç"
+
+msgid "rss_me_delete"
+msgstr "Suprimeix"
+
+msgid "rss_me_edit"
+msgstr "Edita"
+
+msgid "rss_me_feed"
+msgstr "Canal"
+
+msgid "rss_me_feed_directory"
+msgstr "Directori de canals"
+
+msgid "rss_me_folders"
+msgstr "Carpetes"
+
+msgid "rss_me_load_image"
+msgstr "Carrega la imatge"
+
+msgid "rss_me_manage_folders"
+msgstr "Gestiona les carpetes"
+
+msgid "rss_me_new_folder"
+msgstr "Carpeta nova"
+
+msgid "rss_me_refresh"
+msgstr "Actualitza"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Actualitza els canals"
+
+msgid "rss_me_rename"
+msgstr "Reanomena"
+
+msgid "rss_me_save_image"
+msgstr "Desa la imatge com"
+
+msgid "rss_me_search_results"
+msgstr "Resultats de la cerca"
+
+msgid "rss_me_settings"
+msgstr "Paràmetres"
+
+msgid "rss_me_sort"
+msgstr "Ordena"
+
+msgid "rss_me_tools"
+msgstr "Eines"
+
+msgid "rss_me_view"
+msgstr "Visualitza"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Voleu dessubscriure-us del canal? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Netejar tot el contingut de la memòria cau?"
+
+msgid "rss_ni_adding_failed"
+msgstr "No es pot afegir font. Adreça invàlida."
+
+msgid "rss_ni_connection_timeout"
+msgstr "No es pot afegir les fonts. Temps d'espera de connexió excedit"
+
+msgid "rss_ni_connection_was_lost"
+msgstr "No s'han pogut actualitzar totes les fonts"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "No s'ha pogut actualitzar la font"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "No es poden afegir fonts. Adreça invàlida."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "No s'han pogut actualitzar fonts. Prova-ho més tard."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "No s'ha pogut actualitzar la font. Prova-ho més tard."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "S'han produït errors quan es carregava el directori"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "S'han produït errors quan es processava la font"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Primer introduïr nom de la font"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Introduïu una adreça primer"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "No s'ha pogut incrementar la mida de la memòria cau. No hi ha prou memòria a %s."
+
+msgid "rss_ni_unable_load_image"
+msgstr "No s'ha pogut obrir l'imatge.\nFitxer no trobat al servidor."
+
+msgid "rss_nw_saving"
+msgstr "S'està desant"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "S'està connectant"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "S'està carregant %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "S'està carregant"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "S'està actualitzant"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Afegeix un canal"
+
+msgid "rss_ti_change_folder"
+msgstr "Canvia la carpeta"
+
+msgid "rss_ti_feed_details"
+msgstr "Detalls del canal"
+
+msgid "rss_ti_feed_directory"
+msgstr "Directori de canals"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Selecciona un fitxer OPML"
+
+msgid "rss_ti_home_applet"
+msgstr "Giny RSS de l'escriptori"
+
+msgid "rss_ti_manage_folders"
+msgstr "Gestiona les carpetes"
+
+msgid "rss_ti_new_folder"
+msgstr "Carpeta nova"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Actualitza els canals"
+
+msgid "rss_ti_rename_folder"
+msgstr "Reanomena la carpeta"
+
+msgid "rss_ti_search"
+msgstr "Cerca"
+
+msgid "rss_ti_settings"
+msgstr "Paràmetres"
+
+msgid "rss_ti_updating"
+msgstr "S'està actualitzant"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "Desactivat"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Web"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 hora"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 minuts"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 hores"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 minuts"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 hores"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 hores"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Qualsevol connexió"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "Wi-Fi"
