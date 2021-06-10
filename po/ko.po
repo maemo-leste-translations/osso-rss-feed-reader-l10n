@@ -1,0 +1,427 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2012-05-30 14:49+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "찾아보기"
+
+msgid "rss_bd_change_folder"
+msgstr "폴더 변경"
+
+msgid "rss_bd_delete"
+msgstr "삭제"
+
+msgid "rss_bd_new"
+msgstr "새로 만들기"
+
+msgid "rss_bd_refresh"
+msgstr "새로 고침"
+
+msgid "rss_bd_rename"
+msgstr "이름 바꾸기"
+
+msgid "rss_bd_subscribe"
+msgstr "구독"
+
+msgid "rss_bd_unsubscribe"
+msgstr "구독 해제"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "자동 스크롤"
+
+msgid "rss_fi_download_img"
+msgstr "이미지 내려받기"
+
+msgid "rss_fi_open_posts_to"
+msgstr "사용하여 포스트 열기"
+
+msgid "rss_ia_add_to_folder"
+msgstr "폴더"
+
+msgid "rss_ia_all_feeds"
+msgstr "모든 피드"
+
+msgid "rss_ia_category"
+msgstr "분류"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "주소"
+
+msgid "rss_ia_feed_folder"
+msgstr "폴더"
+
+msgid "rss_ia_feed_title"
+msgstr "제목"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "피드들이 새로 고침 되지 않았습니다."
+
+msgid "rss_ia_img_cache_size"
+msgstr "이미지 캐시 크기 (MB)"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d 개의 항목 찾음"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "마지막 새로 고침 일시는 %1$s %2$s 입니다"
+
+msgid "rss_ia_loading"
+msgstr "불러오는 중"
+
+msgid "rss_ia_location"
+msgstr "위치"
+
+msgid "rss_ia_name"
+msgstr "이름"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "RSS 피드 폴더"
+
+msgid "rss_ia_no_feeds"
+msgstr "(피드 없음)"
+
+msgid "rss_ia_no_posts"
+msgstr "(포스트 없음)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "구독 중인 피드가 없습니다.\n메뉴에서 '추가'를 선택해주시기 바랍니다."
+
+msgid "rss_ia_refresh"
+msgstr "새로 고침:"
+
+msgid "rss_ia_save_for_later"
+msgstr "나중을 위해 남겨둠"
+
+msgid "rss_ia_searching"
+msgstr "찾는 중"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "선택한 피드만"
+
+msgid "rss_ia_subscribed"
+msgstr "구독 중임"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d 개의 읽지 않은 포스트"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "자동"
+
+msgid "rss_ia_update_interval"
+msgstr "업데이트 간격"
+
+msgid "rss_ia_update_when_connected"
+msgstr "다음이 연결됐을시"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d 개의 포스트가 나중을 위해 남겨짐"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "당신은 %d 개의 피드를 구독 중입니다"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "검색 중일때는 새로 고침을 할 수 없습니다"
+
+msgid "rss_ib_enter_key_words"
+msgstr "핵심어를 입력해주세요"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "자동 피드 업데이트가 활성화 되어있지 않습니다"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "피드가 선택되지 않았습니다"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr "이전 검색 결과가 없습니다.\n새로 검색을 시작해주세요."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "붙여 넣을 것이 없습니다"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "새로 고침 작업이 이미 진행 중입니다"
+
+msgid "rss_ib_search_completed"
+msgstr "검색이 완료 되었습니다"
+
+msgid "rss_ib_search_interrupted"
+msgstr "검색이 중단 되었습니다"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "구독 작업이 이미 진행 중입니다"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "새로 고침 중에는 피드를 추가할 수 없습니다"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "검색 중에는 피드를 추가할 수 없습니다"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "구독 중에는 해당 폴더를 변경할 수 없습니다"
+
+msgid "rss_ib_unable_edit"
+msgstr "새로 고침 중에는 정보를 편집할 수 없습니다"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "검색 중에는 정보를 편집할 수 없습니다"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "검색 중에는 폴더를 관리할 수 없습니다"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "새로 고침 중에는 열 수 없습니다"
+
+msgid "rss_ib_unable_search_open"
+msgstr "검색 중에는 열 수 없습니다"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "선택한 폴더에 피드를 추가할 수 없습니다"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "선택한 폴더에 폴더를 생성할 수 없습니다"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "선택한 피드를 이동할 수 없습니다"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "항목을 여기에 이동할 수 없습니다"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "여기에 붙여 넣을 수 없습니다"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "새로 고침 중에는 구독을 해제할 수 없습니다"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "검색 중에는 구독을 해제할 수 없습니다"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "선택한 피드를 구독 해제할 수 없습니다"
+
+msgid "rss_me_add_a_feed"
+msgstr "추가"
+
+msgid "rss_me_clear_image_cache"
+msgstr "이지지 캐시 초기화"
+
+msgid "rss_me_copy_link"
+msgstr "링크 위치 복사"
+
+msgid "rss_me_delete"
+msgstr "삭제"
+
+msgid "rss_me_edit"
+msgstr "편집"
+
+msgid "rss_me_feed"
+msgstr "피드"
+
+msgid "rss_me_feed_directory"
+msgstr "피드 디렉토리"
+
+msgid "rss_me_folders"
+msgstr "폴더"
+
+msgid "rss_me_load_image"
+msgstr "이미지 불러오기"
+
+msgid "rss_me_manage_folders"
+msgstr "폴더 관리"
+
+msgid "rss_me_new_folder"
+msgstr "새로운 폴더"
+
+msgid "rss_me_refresh"
+msgstr "새로 고침"
+
+msgid "rss_me_refresh_feeds"
+msgstr "피드 새로 고침"
+
+msgid "rss_me_rename"
+msgstr "이름 바꾸기"
+
+msgid "rss_me_save_image"
+msgstr "다른 이름으로 이미지 저장"
+
+msgid "rss_me_search_results"
+msgstr "결과 검색"
+
+msgid "rss_me_settings"
+msgstr "설정"
+
+msgid "rss_me_sort"
+msgstr "정렬"
+
+msgid "rss_me_tools"
+msgstr "도구"
+
+msgid "rss_me_view"
+msgstr "보기"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "%s 피드를 구독 해제 하시겠습니까?"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "이미지 캐시로부터 모든 컨텐츠를 초기화 하시겠습니까?"
+
+msgid "rss_ni_adding_failed"
+msgstr "피드를 추가할 수 없습니다. 주소가 올바르지 않습니다."
+
+msgid "rss_ni_connection_timeout"
+msgstr "하나 혹은 그 이상의 피드를 추가할 수 없습니다. 연결이 시간초과 하였습니다."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "피드들을 새로 고침하지 못하였습니다."
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "피드를 새로 고침하지 못하였습니다"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "하나 혹은 그 이상의 피드들을 추가할 수 없습니다. 주소가 올바르지 않습니다."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "하나 혹은 그 이상의 피드들을 새로 고침할 수 없습니다. 나중에 다시 시도해주세요."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "선택한 피드를 새로 고침할 수 없습니다. 나중에 다시 시도해주세요."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "현재 디렉토리를 불러오는 중 오류가 발생하였습니다"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "현재 피드를 분석 중 오류가 발생하였습니다"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "피드 이름을 입력해주세요"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "주소를 입력해주세요"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "이미지 캐시 크기를 늘릴 수가 없습니다. %s 에 빈 공간이 부족합니다."
+
+msgid "rss_ni_unable_load_image"
+msgstr "파일을 서버에서 찾을 수가 없어\n이미지를 열 수가 없습니다."
+
+msgid "rss_nw_saving"
+msgstr "저장 중"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "연결 중"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "%d/%d 불러오는 중"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "불러오는 중"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "새로 고침 중"
+
+msgid "rss_ti_add_a_feed"
+msgstr "피드 추가"
+
+msgid "rss_ti_change_folder"
+msgstr "폴더 변경"
+
+msgid "rss_ti_feed_details"
+msgstr "피드 정보"
+
+msgid "rss_ti_feed_directory"
+msgstr "피드 디렉토리"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "OPML 파일 선택"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS 바탕화면 위젯"
+
+msgid "rss_ti_manage_folders"
+msgstr "폴더 관리"
+
+msgid "rss_ti_new_folder"
+msgstr "새 폴더"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "피드 새로 고침"
+
+msgid "rss_ti_rename_folder"
+msgstr "폴더 이름 박꾸기"
+
+msgid "rss_ti_search"
+msgstr "검색"
+
+msgid "rss_ti_settings"
+msgstr "설정"
+
+msgid "rss_ti_updating"
+msgstr "업데이트 중"
+
+msgid "rss_va_img_cache_1"
+msgstr "1"
+
+msgid "rss_va_img_cache_2"
+msgstr "2"
+
+msgid "rss_va_img_cache_4"
+msgstr "4"
+
+msgid "rss_va_img_cache_8"
+msgstr "8"
+
+msgid "rss_va_img_cache_off"
+msgstr "Off"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "웹"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 시간"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 분"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 시간"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 분"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 시간"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 시간"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "아무 연결이나"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "Wi-Fi"
