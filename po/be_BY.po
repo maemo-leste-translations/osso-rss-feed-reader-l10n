@@ -1,0 +1,431 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2012-05-26 13:53+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Прагляд"
+
+msgid "rss_bd_change_folder"
+msgstr "Змяніць тэчку"
+
+msgid "rss_bd_delete"
+msgstr "Выдаліць"
+
+msgid "rss_bd_new"
+msgstr "Новы"
+
+msgid "rss_bd_refresh"
+msgstr "Абнавіць"
+
+msgid "rss_bd_rename"
+msgstr "Перайменаваць"
+
+msgid "rss_bd_subscribe"
+msgstr "Падпісацца"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Адпісацца"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Аўтаматычная пракрутка"
+
+msgid "rss_fi_download_img"
+msgstr "Запампаваць выявы"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Адчыніць публікацыі, якія выкарыстоўваюць"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Тэчка"
+
+msgid "rss_ia_all_feeds"
+msgstr "Усе каналы"
+
+msgid "rss_ia_category"
+msgstr "Катэгорыя"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Адрас"
+
+msgid "rss_ia_feed_folder"
+msgstr "Тэчка"
+
+msgid "rss_ia_feed_title"
+msgstr "Назва"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Каналы ніколі не абнаўляліся"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Памер кэша выяў"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "Знойдзены %d элемент"
+msgstr[1] "Знойдзена %d элементаў"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Апошні  раз абнаўлялася %1$s каля %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Загрузка"
+
+msgid "rss_ia_location"
+msgstr "Размяшчэнне"
+
+msgid "rss_ia_name"
+msgstr "Імя"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "Тэчкі каналаў RSS"
+
+msgid "rss_ia_no_feeds"
+msgstr "(няма каналаў)"
+
+msgid "rss_ia_no_posts"
+msgstr "(няма публікацый)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Няма падпісаных каналаў"
+
+msgid "rss_ia_refresh"
+msgstr "Абнавіць:"
+
+msgid "rss_ia_save_for_later"
+msgstr "Захаваць для пазнейшага прагляду"
+
+msgid "rss_ia_searching"
+msgstr "Пошук"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Толькі абраныя каналы"
+
+msgid "rss_ia_subscribed"
+msgstr "Падпісаны"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d нечытаная публікацыя"
+msgstr[1] "%d нечытаных публікацый"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Аўтаматычна"
+
+msgid "rss_ia_update_interval"
+msgstr "Інтэрвал абнаўлення"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Калі падлучаны да"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d публікацыя захаваная для пазнейшага прагляду"
+msgstr[1] "%d публікацый захавана для пазнейшага прагляду"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Падпісаны на %d канал"
+msgstr[1] "Падпісаны на %d каналаў"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Немагчыма пачаць абнаўлення пакуль ідзе пошук"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Увядзіце ключавыя словы"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Аўтаматычнае абнаўленне каналаў не ўключана"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Няма абраных каналаў"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr "Няма папярэдніх вынікаў пошуку.\nПачніце новы пошук."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Няма чаго ўстаўляць"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Аперацыя абнаўлення ўжо выконваецца"
+
+msgid "rss_ib_search_completed"
+msgstr "Пошук завершаны"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Пошук скасаваны"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Аперацыя падпіскі ўжо выконваецца"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Немагчыма дадаць канал падчас абнаўлення"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Немагчыма дадаць канал падчас пошуку"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Немагчыма змяніць мэтавую тэчку падчас падпісвання"
+
+msgid "rss_ib_unable_edit"
+msgstr "Немагчыма змяніць дэталі падчас абнаўлення"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Немагчыма змяніць дэталі падчас пошуку"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Немагчыма кіраваць тэчкамі падчас пошуку"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Немагчыма адчыніць падчас абнаўлення"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Немагчыма адчыніць падчас пошуку"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Немагчыма дадаць канал да абранай тэчкі"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Немагчыма стварыць тэчку ў абранай тэчцы"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Немагчыма перамясціць абраны канал"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Сюды немагчыма перамясціць элементы"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Сюды немагчыма ўставіць"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Немагчыма адпісацца падчас абнаўлення"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Немагчыма адпісацца падчас пошуку"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Немагчыма адпісацца ад абранага канала"
+
+msgid "rss_me_add_a_feed"
+msgstr "Дадаць"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Ачысціць кэш выяў"
+
+msgid "rss_me_copy_link"
+msgstr "Капіраваць размяшчэнне спасылкі"
+
+msgid "rss_me_delete"
+msgstr "Выдаліць"
+
+msgid "rss_me_edit"
+msgstr "Рэдагаваць"
+
+msgid "rss_me_feed"
+msgstr "Канал"
+
+msgid "rss_me_feed_directory"
+msgstr "Тэчка канала"
+
+msgid "rss_me_folders"
+msgstr "Тэчкі"
+
+msgid "rss_me_load_image"
+msgstr "Загрузіць выяву"
+
+msgid "rss_me_manage_folders"
+msgstr "Кіраваць тэчкамі"
+
+msgid "rss_me_new_folder"
+msgstr "Новая тэчка"
+
+msgid "rss_me_refresh"
+msgstr "Абнавіць"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Абнавіць каналы"
+
+msgid "rss_me_rename"
+msgstr "Перайменаваць"
+
+msgid "rss_me_save_image"
+msgstr "Захаваць выяву як"
+
+msgid "rss_me_search_results"
+msgstr "Вынікі пошуку"
+
+msgid "rss_me_settings"
+msgstr "Налады"
+
+msgid "rss_me_sort"
+msgstr "Сартаваць"
+
+msgid "rss_me_tools"
+msgstr "Інструменты"
+
+msgid "rss_me_view"
+msgstr "Выгляд"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Адпісацца ад канала? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Ачысціць усё змесціва ад кэша выяў?"
+
+msgid "rss_ni_adding_failed"
+msgstr "Немагчыма дадаць канал. Няправільны адрас."
+
+msgid "rss_ni_connection_timeout"
+msgstr "Немагчыма дадаць адзін ці болей каналаў. Тайм-аўт падлучэння."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Немагчыма завяршыць абнаўленне каналаў"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Немагчыма завяршыць абнаўленне канала"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Немагчыма дадаць адзін ці болей каналаў. Няправільны адрас."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "Немагчыма абнавіць адзін ці болей каналаў. Пасбрабуйце яшчэ раз пазжэй."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Немагчыма абнавіць абраны канал. Пасбрабуйце яшчэ раз пазжэй."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Адбылася памылка падчас загрузкі гэтай дырыкторыі"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Адбыліся памылкі падчас разбору гэтага канала"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Спачатку ўвядзіце назву канала"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Спачатку ўвядзіце адрас"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "Немагчыма павялічыць памер кэша выяў. Не хапае памяці ў %s."
+
+msgid "rss_ni_unable_load_image"
+msgstr "Немагчыма адчыніць выяву.\nФайл не знойдзены на серверы."
+
+msgid "rss_nw_saving"
+msgstr "Захаванне"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Падлучэнне"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Загрузка %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Загрузка"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Абнаўленне"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Дадаць канал"
+
+msgid "rss_ti_change_folder"
+msgstr "Змяніць тэчку"
+
+msgid "rss_ti_feed_details"
+msgstr "Дэталі канала"
+
+msgid "rss_ti_feed_directory"
+msgstr "Дырыкторыя канала"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Абярыце файл OPML"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS Віджэт Стальніцы"
+
+msgid "rss_ti_manage_folders"
+msgstr "Кіраванне тэчкамі"
+
+msgid "rss_ti_new_folder"
+msgstr "Новая тэчка"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Абнавіць каналы"
+
+msgid "rss_ti_rename_folder"
+msgstr "Перайменаваць тэчку"
+
+msgid "rss_ti_search"
+msgstr "Шукаць"
+
+msgid "rss_ti_settings"
+msgstr "Налады"
+
+msgid "rss_ti_updating"
+msgstr "Абнаўленне"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 МБ"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 МБ"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 МБ"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 МБ"
+
+msgid "rss_va_img_cache_off"
+msgstr "Выключаны"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Сеціва"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 гадзіна"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 хвілін"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 гадзіны"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 хвілін"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 гадзіны"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 гадзін"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Любое падлучэнне"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "WLAN"
