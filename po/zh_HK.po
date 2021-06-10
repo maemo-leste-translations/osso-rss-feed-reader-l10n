@@ -1,0 +1,427 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2012-05-30 14:32+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS 閱讀器"
+
+msgid "rss_bd_browse"
+msgstr "瀏覽"
+
+msgid "rss_bd_change_folder"
+msgstr "修改資料夾"
+
+msgid "rss_bd_delete"
+msgstr "刪除"
+
+msgid "rss_bd_new"
+msgstr "新增"
+
+msgid "rss_bd_refresh"
+msgstr "重新整理"
+
+msgid "rss_bd_rename"
+msgstr "重新命名"
+
+msgid "rss_bd_subscribe"
+msgstr "訂閱"
+
+msgid "rss_bd_unsubscribe"
+msgstr "取消訂閱"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "自動捲動"
+
+msgid "rss_fi_download_img"
+msgstr "下載圖片"
+
+msgid "rss_fi_open_posts_to"
+msgstr "開啟內容使用"
+
+msgid "rss_ia_add_to_folder"
+msgstr "資料夾"
+
+msgid "rss_ia_all_feeds"
+msgstr "全部摘要"
+
+msgid "rss_ia_category"
+msgstr "類別"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "地址"
+
+msgid "rss_ia_feed_folder"
+msgstr "資料夾"
+
+msgid "rss_ia_feed_title"
+msgstr "標題"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "摘要從未重新整理"
+
+msgid "rss_ia_img_cache_size"
+msgstr "圖片緩衝記憶體"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "找到 %d 個項目"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "最後重新整理時間 %1$s %2$s"
+
+msgid "rss_ia_loading"
+msgstr "正在載入"
+
+msgid "rss_ia_location"
+msgstr "位置"
+
+msgid "rss_ia_name"
+msgstr "名稱"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "RSS 摘要資料夾"
+
+msgid "rss_ia_no_feeds"
+msgstr "(沒有摘要)"
+
+msgid "rss_ia_no_posts"
+msgstr "(沒有訊息)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "沒有訂閱的摘要.\n請在選單中點擊"
+
+msgid "rss_ia_refresh"
+msgstr "重新整理"
+
+msgid "rss_ia_save_for_later"
+msgstr "請稍候"
+
+msgid "rss_ia_searching"
+msgstr "正在搜尋"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "只能選擇摘要"
+
+msgid "rss_ia_subscribed"
+msgstr "已訂閱"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d 個未讀訊息"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "自動更新摘要"
+
+msgid "rss_ia_update_interval"
+msgstr "更新間隔"
+
+msgid "rss_ia_update_when_connected"
+msgstr "連線有效時自動更新"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d 保留供以後參考"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "您已訂閱 %d 摘要"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "搜尋中無法重新整理"
+
+msgid "rss_ib_enter_key_words"
+msgstr "輸入關鍵字"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "自動更新摘要未啟動"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "沒有選中摘要"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr "沒有搜尋結果.\n開始新搜尋."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "無法貼上"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "正在進行重新整理操作"
+
+msgid "rss_ib_search_completed"
+msgstr "搜尋完成"
+
+msgid "rss_ib_search_interrupted"
+msgstr "搜尋取消"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "正在進行訂閱操作"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "重新整理中無法新增摘要"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "搜尋中無法管理資料夾"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "訂閱中無法修改目標資料夾"
+
+msgid "rss_ib_unable_edit"
+msgstr "重新整理中無法編輯詳情"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "搜尋中無法編輯詳情"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "搜尋中無法管理資料夾"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "無法在選中的資料夾中新增摘要"
+
+msgid "rss_ib_unable_search_open"
+msgstr "搜尋中無法開啟"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "無法在選中的資料夾中新增摘要"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "無法在選中的資料夾中建立資料夾"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "無法移動選中的摘要"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "無法移動項目到這裡"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "無法貼上到這裡"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "重新整理中無法取消訂閱"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "搜尋中無法取消訂閱"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "無法在選中的摘要中取消訂閱"
+
+msgid "rss_me_add_a_feed"
+msgstr "新增摘要"
+
+msgid "rss_me_clear_image_cache"
+msgstr "清除圖像緩衝記憶體"
+
+msgid "rss_me_copy_link"
+msgstr "複製連線位置"
+
+msgid "rss_me_delete"
+msgstr "刪除"
+
+msgid "rss_me_edit"
+msgstr "編輯"
+
+msgid "rss_me_feed"
+msgstr "摘要"
+
+msgid "rss_me_feed_directory"
+msgstr "摘要資料夾"
+
+msgid "rss_me_folders"
+msgstr "資料夾"
+
+msgid "rss_me_load_image"
+msgstr "載入圖片"
+
+msgid "rss_me_manage_folders"
+msgstr "管理資料夾"
+
+msgid "rss_me_new_folder"
+msgstr "建立資料夾"
+
+msgid "rss_me_refresh"
+msgstr "重新整理"
+
+msgid "rss_me_refresh_feeds"
+msgstr "重新整理摘要"
+
+msgid "rss_me_rename"
+msgstr "重新命名"
+
+msgid "rss_me_save_image"
+msgstr "圖片另存新檔"
+
+msgid "rss_me_search_results"
+msgstr "搜尋結果"
+
+msgid "rss_me_settings"
+msgstr "設定"
+
+msgid "rss_me_sort"
+msgstr "排序"
+
+msgid "rss_me_tools"
+msgstr "工具"
+
+msgid "rss_me_view"
+msgstr "檢視"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "從摘要中取消訂閱? %s"
+
+msgid "rss_nc_clear_image_cache"
+msgstr "清空圖片緩衝記憶體中的全部內容?"
+
+msgid "rss_ni_adding_failed"
+msgstr "無法新增摘要. 地址有誤."
+
+msgid "rss_ni_connection_timeout"
+msgstr "無法增加一個或多個摘要. 連接逾時."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "無法完成重新整理摘要"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "無法重新整理選中的摘要"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "無法新增選中的摘要. 地址有誤."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "無法重新整理一個或多個摘要. 請重試."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "無法重新整理選中的摘要. 請重試."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "載入目錄時發生錯誤"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "貼上摘要時發生錯誤"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "請先輸入摘要名稱"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "請先輸入地址"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "無法新增圖像緩衝記憶體容量. %s 中沒有足夠的記憶體."
+
+msgid "rss_ni_unable_load_image"
+msgstr "無法開啟圖片.\n無法在伺服器中找到此檔案."
+
+msgid "rss_nw_saving"
+msgstr "正在儲存"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "正在連線"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "正在載入 %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "正在載入"
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "正在重新整理"
+
+msgid "rss_ti_add_a_feed"
+msgstr "新增摘要"
+
+msgid "rss_ti_change_folder"
+msgstr "選擇資料夾"
+
+msgid "rss_ti_feed_details"
+msgstr "摘要詳情"
+
+msgid "rss_ti_feed_directory"
+msgstr "摘要目錄"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "選擇 OPML 檔案"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS 桌面 Widget"
+
+msgid "rss_ti_manage_folders"
+msgstr "管理資料夾"
+
+msgid "rss_ti_new_folder"
+msgstr "建立資料夾"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS 閱讀器"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "重新整理摘要"
+
+msgid "rss_ti_rename_folder"
+msgstr "重新命名資料夾"
+
+msgid "rss_ti_search"
+msgstr "搜尋"
+
+msgid "rss_ti_settings"
+msgstr "設定"
+
+msgid "rss_ti_updating"
+msgstr "更新"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "關閉"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "網絡"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 小時"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 分鐘"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 小時"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 分鐘"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 小時"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 小時"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "所有連線"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "Wi-Fi"
