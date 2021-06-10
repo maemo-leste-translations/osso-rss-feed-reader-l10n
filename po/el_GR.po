@@ -1,0 +1,431 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "rss_ap_news_reader"
+msgstr "RSS"
+
+msgid "rss_bd_browse"
+msgstr "Περιήγηση"
+
+msgid "rss_bd_change_folder"
+msgstr "Αλλαγή φακέλου"
+
+msgid "rss_bd_delete"
+msgstr "Διαγραφή"
+
+msgid "rss_bd_new"
+msgstr "Νέο"
+
+msgid "rss_bd_refresh"
+msgstr "Ανανέωση"
+
+msgid "rss_bd_rename"
+msgstr "Μετονομασία"
+
+msgid "rss_bd_subscribe"
+msgstr "Εγγραφή"
+
+msgid "rss_bd_unsubscribe"
+msgstr "Ακύρωση εγγραφής"
+
+msgid "rss_fi_automatic_scrolling"
+msgstr "Αυτόματη κίνηση"
+
+msgid "rss_fi_download_img"
+msgstr "Λήψη εικόνων"
+
+msgid "rss_fi_open_posts_to"
+msgstr "Άνοιγμα των δημοσιεύσεων με"
+
+msgid "rss_ia_add_to_folder"
+msgstr "Φάκελος"
+
+msgid "rss_ia_all_feeds"
+msgstr "Όλες οι τροφοδοσίες"
+
+msgid "rss_ia_category"
+msgstr "Κατηγορία"
+
+msgid "rss_ia_device_name"
+msgstr "%s"
+
+msgid "rss_ia_feed_address"
+msgstr "Διεύθυνση"
+
+msgid "rss_ia_feed_folder"
+msgstr "Φάκελος"
+
+msgid "rss_ia_feed_title"
+msgstr "Όνομα"
+
+msgid "rss_ia_feeds_never_refreshed"
+msgstr "Οι τροφοδοσίες δεν έχουν ενημερωθεί ποτέ"
+
+msgid "rss_ia_img_cache_size"
+msgstr "Μέγεθος μνήμης εικόνων"
+
+msgid "rss_ia_item_found"
+msgid_plural "rss_ia_items_found"
+msgstr[0] "%d αντικείμενο βρέθηκε"
+msgstr[1] "%d αντικείμενα βρέθηκαν"
+
+msgid "rss_ia_last_refresh_on_date_at_time"
+msgstr "Τελευταία ανανέωση έγινε %1$s στις %2$s"
+
+msgid "rss_ia_loading"
+msgstr "Φόρτωση"
+
+msgid "rss_ia_location"
+msgstr "Τοποθεσία"
+
+msgid "rss_ia_name"
+msgstr "Όνομα"
+
+msgid "rss_ia_news_feed_folders"
+msgstr "Φάκελοι τροφοδοσιών RSS"
+
+msgid "rss_ia_no_feeds"
+msgstr "(δεν υπάρχουν τροφοδοσίες)"
+
+msgid "rss_ia_no_posts"
+msgstr "(δεν υπάρχουν δημοσιεύσεις)"
+
+msgid "rss_ia_no_subscribed_feeds"
+msgstr "Δεν υπάρχουν τροφοδοσίες στις οποίες είστε εγγεγραμμένοι"
+
+msgid "rss_ia_refresh"
+msgstr "Ανανέωση:"
+
+msgid "rss_ia_save_for_later"
+msgstr "Σημείωση για αργότερα"
+
+msgid "rss_ia_searching"
+msgstr "Αναζήτηση"
+
+msgid "rss_ia_selected_feed_only"
+msgstr "Μόνο η επιλεγμένη τροφοδοσία"
+
+msgid "rss_ia_subscribed"
+msgstr "Έγινε εγγραφή"
+
+msgid "rss_ia_there_are_n_unread_post"
+msgid_plural "rss_ia_there_are_n_unread_posts"
+msgstr[0] "%d μη διαβασμένη δημοσίευση"
+msgstr[1] "%d μη διαβασμένες δημοσιεύσεις"
+
+msgid "rss_ia_update_feeds_automatically"
+msgstr "Αυτόματα"
+
+msgid "rss_ia_update_interval"
+msgstr "Ενημέρωση κάθε"
+
+msgid "rss_ia_update_when_connected"
+msgstr "Σύνδεση με"
+
+msgid "rss_ia_you_have_saved_n_item"
+msgid_plural "rss_ia_you_have_saved_n_items"
+msgstr[0] "%d δημοσίευση σημειώθηκε για αργότερα"
+msgstr[1] "%d δημοσιεύσεις σημειώθηκαν για αργότερα"
+
+msgid "rss_ia_you_have_subscribed_to_n_feed"
+msgid_plural "rss_ia_you_have_subscribed_to_n_feeds"
+msgstr[0] "Έχετε εγγραφεί σε %d τροφοδοσία"
+msgstr[1] "Έχετε εγγραφεί σε %d τροφοδοσίες"
+
+msgid "rss_ib_cannot_start_refresh"
+msgstr "Αδυναμία εκκίνησης ανανέωσης όσο κάνετε αναζήτηση"
+
+msgid "rss_ib_enter_key_words"
+msgstr "Εισάγετε λέξεις κλειδιά"
+
+msgid "rss_ib_feed_auto_update_disabled"
+msgstr "Η αυτόματη ανανέωση των τροφοδοσιών δεν ενεργοποιήθηκε"
+
+msgid "rss_ib_no_feed_selected"
+msgstr "Δεν επιλέχτηκε τροφοδοσία"
+
+msgid "rss_ib_no_previous_search_results"
+msgstr "Δεν υπάρχουν αποτελέσματα από προηγούμενη αναζήτηση.\nΞεκινήστε νέα αναζήτηση."
+
+msgid "rss_ib_nothing_to_paste"
+msgstr "Τίποτα προς επικόλληση"
+
+msgid "rss_ib_refresh_already_started"
+msgstr "Η λειτουργία της ανανέωσης είναι ήδη σε εξέλιξη"
+
+msgid "rss_ib_search_completed"
+msgstr "Η αναζήτηση ολοκληρώθηκε"
+
+msgid "rss_ib_search_interrupted"
+msgstr "Η αναζήτηση ακυρώθηκε"
+
+msgid "rss_ib_subcribe_already_started"
+msgstr "Η λειτουργία της εγγραφής είναι ήδη σε εξέλιξη"
+
+msgid "rss_ib_unable_add_feed"
+msgstr "Αδυναμία πρόσθεσης τροφοδοσίας όσο γίνεται ανανέωση"
+
+msgid "rss_ib_unable_add_feed_searching"
+msgstr "Αδυναμία πρόσθεσης τροφοδοσίας όσο κάνετε αναζήτηση"
+
+msgid "rss_ib_unable_change_tg_subscribe"
+msgstr "Αδυναμία αλλαγής φακέλου προορισμού κατά τη διάρκεια της εγγραφής"
+
+msgid "rss_ib_unable_edit"
+msgstr "Αδυναμία επεξεργασίας λεπτομερειών όσο γίνεται ανανέωση"
+
+msgid "rss_ib_unable_edit_searching"
+msgstr "Αδυναμία επεξεργασίας λεπτομερειών όσο κάνετε αναζήτηση"
+
+msgid "rss_ib_unable_managefolders_searching"
+msgstr "Αδυναμία διαχείρισης φακέλων όσο κάνετε αναζήτηση"
+
+msgid "rss_ib_unable_refresh_open"
+msgstr "Αδυναμία ανοίγματος όσο γίνεται ανανέωση"
+
+msgid "rss_ib_unable_search_open"
+msgstr "Αδυναμία ανοίγματος όσο κάνετε αναζήτηση"
+
+msgid "rss_ib_unable_to_add_feed_into"
+msgstr "Αδυναμία πρόσθεσης τροφοδοσίας στον επιλεγμένο φάκελο"
+
+msgid "rss_ib_unable_to_create_folder_into"
+msgstr "Αδυναμία δημιουργίας φακέλου στον επιλεγμένο φάκελο"
+
+msgid "rss_ib_unable_to_move_feed"
+msgstr "Αδυναμία μετακίνησης της επιλεγμένης τροφοδοσίας"
+
+msgid "rss_ib_unable_to_move_items_here"
+msgstr "Αδυναμία μετακίνησης των αντικειμένων εδώ"
+
+msgid "rss_ib_unable_to_paste"
+msgstr "Αδυναμία επικόλλησης εδώ"
+
+msgid "rss_ib_unable_unsubscribe"
+msgstr "Αδυναμία ακύρωσης εγγραφής όσο γίνεται ανανέωση"
+
+msgid "rss_ib_unable_unsubscribe_searching"
+msgstr "Αδυναμία ακύρωσης εγγραφής όσο κάνετε αναζήτηση"
+
+msgid "rss_ib_unsubscribing_feed_not_allowed"
+msgstr "Αδυναμία ακύρωσης εγγραφής από την επιλεγμένη τροφοδοσία"
+
+msgid "rss_me_add_a_feed"
+msgstr "Προσθήκη"
+
+msgid "rss_me_clear_image_cache"
+msgstr "Μνήμη εικόνων"
+
+msgid "rss_me_copy_link"
+msgstr "Αντιγραφή συνδέσμου"
+
+msgid "rss_me_delete"
+msgstr "Διαγραφή"
+
+msgid "rss_me_edit"
+msgstr "Επεξεργασία"
+
+msgid "rss_me_feed"
+msgstr "Τροφοδοσία"
+
+msgid "rss_me_feed_directory"
+msgstr "Φάκελος τροφοδοσίας"
+
+msgid "rss_me_folders"
+msgstr "Φάκελοι"
+
+msgid "rss_me_load_image"
+msgstr "Φόρτωση εικόνας"
+
+msgid "rss_me_manage_folders"
+msgstr "Διαχείριση φακέλων"
+
+msgid "rss_me_new_folder"
+msgstr "Νέος φάκελος"
+
+msgid "rss_me_refresh"
+msgstr "Ανανέωση"
+
+msgid "rss_me_refresh_feeds"
+msgstr "Ανανέωση τροφοδοσιών"
+
+msgid "rss_me_rename"
+msgstr "Μετονομασία"
+
+msgid "rss_me_save_image"
+msgstr "Αποθήκευση εικόνας ως"
+
+msgid "rss_me_search_results"
+msgstr "Αναζήτηση αποτελεσμάτων"
+
+msgid "rss_me_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "rss_me_sort"
+msgstr "Ταξινόμηση"
+
+msgid "rss_me_tools"
+msgstr "Εργαλεία"
+
+msgid "rss_me_view"
+msgstr "Προβολή"
+
+msgid "rss_nc_are_you_sure_unsubscribe"
+msgstr "Ακύρωση εγγραφής από την τροφοδοσία %s; "
+
+msgid "rss_nc_clear_image_cache"
+msgstr "Καθαρισμός των περιεχομένων της μνήμης εικόνων;"
+
+msgid "rss_ni_adding_failed"
+msgstr "Αδυναμία πρόσθεσης τροφοδοσίας. Λάθος διεύθυνση."
+
+msgid "rss_ni_connection_timeout"
+msgstr "Αδυναμία πρόσθεσης ενός ή περισσότερων τροφοδοσιών. Λήξη χρόνου ανανέωσης."
+
+msgid "rss_ni_connection_was_lost"
+msgstr "Αδυναμία ολοκλήρωσης ανανέωσης των τροφοδοσιών"
+
+msgid "rss_ni_connecton_was_lost_one_feed"
+msgstr "Αδυναμία ολοκλήρωσης ανανέωσης της τροφοδοσίας"
+
+msgid "rss_ni_directory_adding_failed"
+msgstr "Αδυναμία πρόσθεσης ενός ή περισσότερων τροφοδοσιών. Λάθος διεύθυνση."
+
+msgid "rss_ni_error_refreshing_all_feeds"
+msgstr "Αδυναμία ανανέωσης ενός ή περισσότερων τροφοδοσιών. Προσπαθήστε ξανά αργότερα."
+
+msgid "rss_ni_error_resfreshing_one_feed"
+msgstr "Αδυναμία ανανέωσης της επιλεγμένης τροφοδοσίας. Προσπαθήστε ξανά αργότερα."
+
+msgid "rss_ni_errors_loading_directory"
+msgstr "Παρουσιάστηκαν σφάλματα κατά τη διάρκεια φόρτωσης αυτού του φακέλου"
+
+msgid "rss_ni_errors_while_parsing_feed"
+msgstr "Παρουσιάστηκαν σφάλματα κατά τη διάρκεια ανάλυσης αυτής της τροφοδοσίας"
+
+msgid "rss_ni_no_title_for_feed"
+msgstr "Εισάγετε το όνομα της τροφοδοσίας πρώτα"
+
+msgid "rss_ni_no_web_address_for_feed"
+msgstr "Εισάγετε τη διεύθυνση πρώτα"
+
+msgid "rss_ni_unable_increase_img_cache"
+msgstr "Αδυναμία αύξησης της μνήμης εικόνων. Δεν επαρκεί η μνήμη στο %s."
+
+msgid "rss_ni_unable_load_image"
+msgstr "Αδυναμία ανοίγματος της εικόνας.\nΤο αρχείο δεν βρέθηκε στον εξυπηρετητή."
+
+msgid "rss_nw_saving"
+msgstr "Αποθήκευση"
+
+msgid "rss_pb_toolbar_connecting"
+msgstr "Σύνδεση"
+
+msgid "rss_pb_toolbar_receiving"
+msgstr "Φόρτωση %d/%d"
+
+msgid "rss_pb_toolbar_receiving_file"
+msgstr "Φόρτωση "
+
+msgid "rss_pb_toolbar_refreshing"
+msgstr "Ανανέωση"
+
+msgid "rss_ti_add_a_feed"
+msgstr "Πρόσθεση τροφοδοσίας"
+
+msgid "rss_ti_change_folder"
+msgstr "Αλλαγή φακέλου"
+
+msgid "rss_ti_feed_details"
+msgstr "Λεπτομέρειες τροφοδοσίας"
+
+msgid "rss_ti_feed_directory"
+msgstr "Φάκελος τροφοδοσίας"
+
+msgid "rss_ti_feed_select_opml_file"
+msgstr "Επιλογή αρχείου OPML"
+
+msgid "rss_ti_home_applet"
+msgstr "RSS Widget επιφάνειας εργασίας"
+
+msgid "rss_ti_manage_folders"
+msgstr "Διαχείριση φακέλων"
+
+msgid "rss_ti_new_folder"
+msgstr "Νέος φάκελος"
+
+msgid "rss_ti_newsreader"
+msgstr "RSS"
+
+msgid "rss_ti_refresh_feeds"
+msgstr "Ανανέωση τροφοδοσιών"
+
+msgid "rss_ti_rename_folder"
+msgstr "Μετονομασία φακέλου"
+
+msgid "rss_ti_search"
+msgstr "Αναζήτηση"
+
+msgid "rss_ti_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "rss_ti_updating"
+msgstr "Ενημέρωση"
+
+msgid "rss_va_img_cache_1"
+msgstr "1 MB"
+
+msgid "rss_va_img_cache_2"
+msgstr "2 MB"
+
+msgid "rss_va_img_cache_4"
+msgstr "4 MB"
+
+msgid "rss_va_img_cache_8"
+msgstr "8 MB"
+
+msgid "rss_va_img_cache_off"
+msgstr "Ανενεργό"
+
+msgid "rss_va_open_posts_to_rss"
+msgstr "RSS"
+
+msgid "rss_va_open_posts_to_web"
+msgstr "Ιστός"
+
+msgid "rss_va_update_interval_1"
+msgstr "1 ώρα"
+
+msgid "rss_va_update_interval_15"
+msgstr "15 λεπτά"
+
+msgid "rss_va_update_interval_2"
+msgstr "2 ώρες"
+
+msgid "rss_va_update_interval_30"
+msgstr "30 λεπτά"
+
+msgid "rss_va_update_interval_4"
+msgstr "4 ώρες"
+
+msgid "rss_va_update_interval_8"
+msgstr "8 ώρες"
+
+msgid "rss_va_update_when_connected_any"
+msgstr "Οποιαδήποτε σύνδεση"
+
+msgid "rss_va_update_when_connected_wlan"
+msgstr "Wi-Fi"
